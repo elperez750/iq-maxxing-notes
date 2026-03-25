@@ -261,6 +261,17 @@ First: Computing went from file retrieving to generative based computing system.
 Second: Computers were warehouses, now they are factories. Now used to generate revenues 
 
 
+NVIDIAS success is vital to the united states
+
+They are creating thousands of jobs
+
+
+
+
+
+
+
+
 
  
 
