@@ -293,6 +293,11 @@ pg 151:
 
 ##### But the divine nature is within us according to him. So why would that only be reserved for souls who learn in the physical world? Its confusing because first he says that the soul returns to a state of knowing after death, but also that some souls stay on the human world or go into animals. This is all convoluted.
 
+## The attunment theory
+
+Given that t
+* Either it wi
+
 
 
 

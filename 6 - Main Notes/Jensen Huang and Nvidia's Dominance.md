@@ -5,7 +5,7 @@ Status:
 
 Tags: [[Entrepreneurial]], [[Economic Moat]], [[AI]]
 
-# Jensen Huang and Nvidia's Dominance
+# [[Jensen Huang]] and Nvidia's Dominance
 
 ##### Author: Lex Friedman
 
@@ -71,6 +71,8 @@ Market size dictates research and development size
 
 A computing platform is all about developers, they come because an install base is large. Developers want to reach enormous amount of people
 
+##### Makes sense. Put them in GeForce gpus that gamers are buying and now they have CUDA.
+
 x86 is the defining architectures. Incredible designed. Install base defines an architecture
 
 
@@ -101,6 +103,7 @@ Cuda is really flexible
 - NVIDIA built layers on top: math libraries, deep learning libraries, debuggers, profilers, SDKs.
 
 ## Why It Became a Moat
+
 - Standard platform: HPC and AI communities standardized on “NVIDIA GPU + CUDA”.
 - Huge ecosystem:
   - Tons of code, research, and products written assuming CUDA.
@@ -111,6 +114,7 @@ Cuda is really flexible
 
 
 ## Very Rough Timeline
+
 - Early 2000s:
   - GPGPU done via graphics APIs (OpenGL/DirectX “hacks”).
 - 2004–2006:
@@ -211,8 +215,7 @@ Jensen wants to use excess power for the data centers
 
 ## The tech industry in China
 
-50 percent of the worlds researchers are chinese
-
+50 percent of the worlds researchers are Chinese
  
 
 Mayor economy is a core component of China's hybrid economic model where mayors and local government officials take a direct, [[Entrepreneurial]] role in driving economic growth within their jurisdictions.
@@ -231,7 +234,6 @@ have a social culture with family first, friends second and company third.
 The open source community is better in China. Fastest innovating country in the world. Excellent education
 
 ##### As much as people say that culture does not  play a role in an economy, China is a great example of how education can shape a nation.
-
 
 
 ## TSMC
@@ -267,14 +269,34 @@ They are creating thousands of jobs
 
 
 
+## AGI
+
+This is essentially an AI system that can do your job
+
+This means that it has access to your computer and complete tasks there. Pretty much a worker.
+
+AGI might be used to make money; What i mean is that they will look for jobs, or becoming influencers
 
 
+## The future of programming
 
+Jensen basically says that software engineers will not be replaced since their main job is to solve problems, not write tons of code.
 
+"Go use AI. Go see what it can do for your job"
 
+##### Jensen is obviously a big advocator of AI, and it makes sense that he would want his employees to be proficient, but what about the critical thinking skills? Those still need to be sharpen. There needs to be a balance with using AI in a way that automates the repetitive parts but that allows for critical thinking, not conformity.
 
- 
+"If the job is the task, the job will disappear, if the job includes task, AI will simply make your life easier."
 
+## Will AI feel human emotions
+
+They will understand the feelings, but not feel them
+
+What is the subjective experience?
+
+What is intelligence?
+
+Intelligence is a commodity. Its a functional thing
 
 
 
