@@ -53,7 +53,7 @@ pg 120:
 pg 121:
 "For some people death is better than life"
 
-"We men are in the care of the gods, one of their possesions. Don't you think?"
+"We men are in the care of the gods, one of their possessions. Don't you think?"
 
 
 pg 122:
@@ -293,10 +293,137 @@ pg 151:
 
 ##### But the divine nature is within us according to him. So why would that only be reserved for souls who learn in the physical world? Its confusing because first he says that the soul returns to a state of knowing after death, but also that some souls stay on the human world or go into animals. This is all convoluted.
 
-## The attunment theory
+## The attunement theory
 
-Given that t
-* Either it wi
+Given that one accepts that there is something constantly in the living body which brings it life, unity and perception. One of two choices is possible
+* Either it will be some part of the individual distinct from the parts of the body, something which arrive when the body is in a condition apt for life and departs thereafter
+* Or it will be some relation between the rest of the parts of the individual
+
+
+##### Basically, this is what Simmias argues. That the soul is inherently part of the  body, and that once the body is destroyed, then so is the soul. This is called the attunement theory because the body is the instrument and the soul is the tuner. You cannot be in tune without the instrument. 
+
+
+
+pg 157:
+"The attunement is something invisible and incorporeal and splendid and divine, and located in the tuned instrument, which the instrument itself and its strings are material and corporeal and composite and early and closely related to what is mortal"
+
+"As soon as the tension of our body is lowered or increased beyond the proper point, the soul must be destroyed, divine though it is; just like any other attunement"
+
+##### this argument states that they are one, and that you cannot have the soul without the body, which is the opposite to what Socrates is saying.
+
+
+#### The following is what Cebes states to be his problem to this
+
+pg 158
+"And he raises the critical issue that the same body may not after all last a man's lifetime since parts are constantly expended and replaced, so that the more enduring soul could last longer without lasting beyond death."
+
+##### This theory of Cebes states that even the soul is not indestructible. It is very durable, but is not prone to be destroyed. Just like rocks. It is very unlikely to see very much changes to rocks in a lifetime if we take rocks near a coastline, but eventually it will erode and break down, and it will look drastically different than it did millions of years ago.
+
+pg 161
+
+"But, I objected, note even Hercales can take on two at once"
+
+"You had better call upon me to be your Iolaus"
+
+##### Socrates compares himself to Heracles and his interlocutor, Phaedo, to Iolaus, Heracles' loyal nephew and assistant who helped him defeat the hydra
+
+
+"No greater misfortune could happen to anyone than that of developing a dislike for argument"
+
+
+"Misanthropy is induced by believing in somebody quite uncritically."
+
+
+pg 162
+"Have you never realized that extreme instances are few and rage, while intermediate ones are many and plentiful?"
+
+
+pg 163
+"people who have no real education care nothing for the facts of the case, and are only anxious to get their point off view accepted by an audience?"
+
+
+##### This seems to be where the culture is heading in 2026. It seems that people are not humble enough to concede on points where it makes sense to concede. Instead, people are in camps, where they must not go against the mainstream view, for example in the conservative since where criticism of Trump seems to be something that is off limits and something that new outlets do constantly.
+
+##### The modern world prioritizes clicks over honesty, and people would rather have blood thirsty, savage debates rather than intellectual debates where not only are both sides understanding and listening to arguments, but where they are not afraid to concede points.
+
+
+## Reasons why the soul is not an attunement according to Socrates
+
+- The theory is incompatible with the [[Theory of Recollection]]
+
+
+##### Why is it inconsistent? Well it would be inconsistent since the theory of recollections explicitly states that the soul simply inhabits the human body for a time, where as the theory of attunement suggests that the soul is a part of the body, and they are not separate, which is where attunement comes from. The body is the instrument and the soul is the attunement of the instrument. Without the instrument, there is no attunement
+
+
+- It is inadequate in so far as there are degrees of attunement but not of soul
+
+
+##### Does this meant that the soul is always pure or at least the nature of it is pure? He said earlier that the actions of the human body dictate the condition of the soul. So does the soul get purified again after death? But wait didn't he say that bad souls stayed chained to earth? 
+
+
+
+
+
+- inconsistent with the fact that our souls can be well or badly tuned themselves
+
+
+##### Is he saying that the soul cannot be tuned?
+
+
+
+- Inconsistent with the soul's role as leader of the body.
+
+
+##### This is straightforward. If the soul is the leader, then it doesn't rely on the body or person to tune it; it should be the other way around where the soul dictates action.
+
+
+
+pg 165
+"I imagine that you would not accept that a composite attunement existed before the elements of which was to be composed. Or would you?"
+
+##### How can the attunement come before the instrument?
+
+
+pg 166
+
+"Very well, then; is it not the nature of every attunement to be an attunement in so far as it is tuned?"
+
+"If it is tuned more, that is, in a greater degree (supposing this to be possible), it must be more of an attunement; and if it is tuned less, that is, in a lesser degree, it must be less of an attunement"
+
+
+##### I don't understand this. For example with the violin, if it is under tuned, then it is simply tuned too low, and if it is overturned, it is tuned to high. So what does he mean more or less of an attunement? Isn't that word attunement itself assume 'tuned'?
+
+"Do we say that one kind of soul possesses intelligence and goodness, and is good, and that another possesses ignorance and wickedness and is bad?"
+
+
+"Then how will a person who holds that the soul is an attunement account for the presence in it of goodness and badness? Will he describe them as yet another attunement or lack of it?"
+
+
+##### Is he saying that the soul itself being good or bad cannot be accounted for in attunement???
+
+pg 167
+
+"But we have already agreed, said [[Socrates]], that no soul can be more or less of a soul than another; and this is tantamount to agreeing that it can be no more or less of an attunement nor can it be an attunement in a greater or lesser degree. Is that not so?"
+
+##### Ok so what I understand, is that since each soul is equal, this means that one soul cannot be more tuned than another soul, and Simmias agreed that one soul is more or less of a soul than another
+
+
+
+"Or rather, I suppose, Simmias, by strict reasoning no soul will contain any share of badness, if it is an attunement; because surely since attunement is absolutely attunement and nothing else, it can never contain any share of discord."
+
+
+"So on this theory every soul of every living creature will be equally good -assuming that it is the nature of all souls to be equally souls and nothing else"
+
+
+
+
+pg 168
+"Then beat his breast, and thus reproved his heart.
+Endure, my heart still worst hast thou endured.
+"
+
+
+
 
 
 
