@@ -10,7 +10,6 @@ Tags:[[The Soul]], [[What comes after death]],
 ##### Author: [[Plato]]
 
 
-
 ## References
 
 
@@ -53,6 +52,9 @@ pg 120:
 pg 121:
 "For some people death is better than life"
 
+
+##### How would you know death is better if you have not experienced it???
+
 "We men are in the care of the gods, one of their possessions. Don't you think?"
 
 
@@ -60,7 +62,7 @@ pg 122:
 
 "I suppose it is not unreasonable to say that we must not put an end to ourselves until God sends some necessary circumstance like the one which we are facing now"
 
-"God is our keeper and we are his possetions"
+"God is our keeper and we are his possesions"
 
 
 "It's natural for the wise to be grieved when they die, and for fools to be happy."
@@ -412,8 +414,11 @@ pg 167
 "Or rather, I suppose, Simmias, by strict reasoning no soul will contain any share of badness, if it is an attunement; because surely since attunement is absolutely attunement and nothing else, it can never contain any share of discord."
 
 
-"So on this theory every soul of every living creature will be equally good -assuming that it is the nature of all souls to be equally souls and nothing else"
+##### As we saw earlier, the soul is in constant battle with the body and pleasures. If the soul were an attunement, then would it not just go along with the body guiding it? This means that you would not feel guilt doing these things. No moral struggles
 
+
+
+"So on this theory every soul of every living creature will be equally good -assuming that it is the nature of all souls to be equally souls and nothing else"
 
 
 
@@ -421,6 +426,47 @@ pg 168
 "Then beat his breast, and thus reproved his heart.
 Endure, my heart still worst hast thou endured.
 "
+
+##### This quote goes to show that the soul leads the body, which after many physical struggles, one may still endure.
+
+
+
+pg 169
+
+"You consider that, unless the confidence of a philosopher, who at the point of dying believes that after death he will be better off for having lived and died in philosophy rather than in any other pursuit, is to be a blind and foolish confidence, the soul must be proved to be indestructible and immortal"
+
+
+
+## Socrates philosophy of reasons or causes
+
+Socrates has been looking for the  causes or explanations of coming-to-be, passing away, or being in existence: not just things coming-to-be, etc., but also the coming-to-be
+
+The theory of Anaxagoras that intelligence governs the world awakens in him the outline of a different approach, by which physical things would be shown to conform with the requirements of intelligence.
+
+
+
+pg 175
+"It never entered my head that a man who asserted that the ordering of things is due to Intelligence would offer any other explanation for them than that it is best for them to be as they are"
+
+
+"As I read on I discovered a man who made no use of his Intelligence, and assigned to it no responsibility for the order of the world, but adduced reasons like air and ether and water and many other oddities. It seemed to me that he was just as inconsistent as if someone were to say 'The reason for everything that Socrates does is intelligence'"
+
+
+##### Basically, the argument that [[Anaxagoras]] made is that everything is that the air, earth, and the physical is the reason that intelligence exists. The truth is far from it. The physical such as a human body, or the world itself is a precondition. Without it, none of us would exist, but reason and intellect come after. It's like saying that Isaac Newton was a genius who revolutionized mathematics because the bones and all of his organs were in the right place and because the Earth has oxygen for him to breath.
+
+
+
+pg 174
+"Fancy being unable to distinguish between the reason for a thing, and the condition without which the reason couldn't be operative!"
+
+
+"I concieved of something like this happening to myself, and I was afraid that by observing objects with my eyes and trying to comprehend them with each of my other sense "
+
+
+
+
+
+
 
 
 
