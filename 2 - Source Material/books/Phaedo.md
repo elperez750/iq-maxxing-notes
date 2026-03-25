@@ -460,7 +460,117 @@ pg 174
 "Fancy being unable to distinguish between the reason for a thing, and the condition without which the reason couldn't be operative!"
 
 
-"I concieved of something like this happening to myself, and I was afraid that by observing objects with my eyes and trying to comprehend them with each of my other sense "
+
+#### Socrates explains his new theory. Particulars are what they are by participation in the Idea, and receive their descriptions from the name of that Idea. 
+
+###### A particular can be the number 3, which participates in oddness. If 3 were to participate in evenness, then it would not be the number 3. Basically, there are the universal forms that humans cannot comprehend, such as Beauty or Intelligence.
+
+
+
+pg 176
+
+
+"It seems to me that whatever else is beautiful apart from Beauty itself is beautiful because it partakes"
+
+pg 177
+
+"You would not mix the two things together by discussing both the starting-point and its consequences, like one of these matters of contradictions"
+
+pg 178
+"I suppose that when you say tat Simmias is taller than Socrates but shorter than Phaedo, you mean that at the moment there are in Simmias both tallness and shortness?"
+
+"But do you agree that the statement "Simmias is bigger than Socrates" is not, as expressed, an accurate reflection of the facts? Surely its not in Simmias's own nature to be bigger- it's because of the height which he incidentally possesses; 
+
+###### So essentially particulars such as humans can participate in both shortness and tallness, since compared to some people, they are tall, and compared to other people, they are short. So I'm guessing there's no formal rules to what for a particular can participate in.
+
+
+## Distinction between the accidental and essential properties of an entity
+
+* between those properties it can lose without ceasing to be the thing that it is, and others which are essential for it to remain what it is
+* certain things imply the participation in one of a pair of opposite qualities and cannot take on the apposing quality
+
+###### Tallness and shortness are opposites yet humans participate in both of those, so maybe what he means is that you cannot participate in them both at once. Oddness and Evenness however cannot be participated by the same particular. For example, 3 cannot ever partake in evenness or else it would not be considered 3.
+
+
+* Anything which has as an essential quality, the property P which has an opposite Q, cannot take on Q-ness, but must be destroyed or retire rather than becoming Q
+
+
+
+pg 179
+"It seems to me not only that tallness itself absolutely declines to be short as well as tall, but also that the tallness "in" us never admits smallness and declines to be surpassed.
+
+###### I'm not really understanding, so the qualities of tallness and shortness both live within us, but we are never both tall and short at the same time? We only participate in one at a time, the other particular fades depending on what we compare ourselves to?
+
+
+pg 180
+
+"Then we were saying that opposite things come from opposite things; now we are saying that the opposite itself can never become opposite too itself"
+
+
+
+###### Logically this make sense, and is what I was saying earlier. Hotness can never become Coldness. Yes, you can go from hot to cold, which would be an example of an opposite going to an opposite, but a form cannot become its opposite, meaning that hot will never inherently be cold. Hot will be hot for the rest of time.
+
+
+pg 181
+
+"the Form is eternally applicable not only to the form itself, but also to something else, which is not the Form but invariably possesses its distinguished characteristics."
+
+
+
+pg 182
+"Surely we must assert that three will sooner cease to exist or suffer any other fate than submit to become even while it is still three?"
+
+
+"And yet two and three are not opposites."
+
+
+###### So two different particulars, such as the numbers 2 and 3, are both even and odd respectively, but the numbers themselves are not opposites. That means that although the forms are opposites the numbers themselves are not even though they participate in opposite forms.
+
+
+*Socrates argues that the soul is such a thing which always brings a quality to that which it occupies, and cannot itself be coupled with the opposite quality. It must retire or perish*
+
+###### Basically, everything has been leading up to this, where it is not the oxygen that we breath everyday or anything else that makes us "alive" but instead the soul is what brings life. When there is death, the soul is not there, because the soul can be thought of as life. Just as warm cannot be cold, the soul cannot admit its opposite, which is death.
+
+
+###### The one thing to keep in mind is that we don't know the nature of the soul, so we cannot say for sure if it is life itself
+
+
+pg 185
+"So it appears what when death comes to a man, the mortal part of him dies, but the un-dying part retires at the approach of death and escapes unharmed and indestructible."
+
+
+pg 195
+"I can't persuade Crito that I am this Socrates here who is talking to you now and marshalling all the arguments; he thinks that I am the corpse whom he will see presently lying dead; and he asks how he is to bury me!"
+
+
+###### Haha lol after everything it makes sense that Socrates' dead body would be Socrates no longer since the soul IS Socrates.
+
+
+
+pg 197
+"I believe that I should gain nothing by drinking the poison a little later -I should only make myself ridiculous in my own eyes if I clung to life and hugged it when it has no more to offer."
+
+
+
+"Really, my friends, what a way to behave! Why, that was my main reason for sending away the women, to prevent this sort of discordant behavior; because I am told that one should make ones end in a reverent silence. Calm yourselves and be brave."
+
+
+###### Haha even in death bro is roasting the boys.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
