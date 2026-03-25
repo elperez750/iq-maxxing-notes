@@ -3,9 +3,9 @@
 
 Status:
 
-Tags:[[The Soul]], [[What comes after death]],
+Tags:[[The Soul]], [[What comes after death]],[[Opposites]], [[Immortality]]
 
-# Phaedo
+	# Phaedo
 
 ##### Author: [[Plato]]
 
@@ -92,7 +92,7 @@ pg 124:
 
 "And most people think, do they not Simmias, that a man who takes neither pleasure nor part in these things does not deserve to live, and that anyone who thinks nothing of pleasures connected with the body has one foot in the grave?"
 
-##### This goes more in depth with the fact that Cebes mentions that most philosophers are half dead. And this makes sense even in our society. If you are not partying, drinking, or having fun in the traditional sense, then people believe that you are not really living like Socrates explains here.
+##### This goes more in depth with the fact that [[Cebes]] mentions that most philosophers are half dead. And this makes sense even in our society. If you are not partying, drinking, or having fun in the traditional sense, then people believe that you are not really living like Socrates explains here.
 
 
 pg 126:
@@ -302,7 +302,7 @@ Given that one accepts that there is something constantly in the living body whi
 * Or it will be some relation between the rest of the parts of the individual
 
 
-##### Basically, this is what Simmias argues. That the soul is inherently part of the  body, and that once the body is destroyed, then so is the soul. This is called the attunement theory because the body is the instrument and the soul is the tuner. You cannot be in tune without the instrument. 
+##### Basically, this is what [[Simmias]] argues. That the soul is inherently part of the  body, and that once the body is destroyed, then so is the soul. This is called the attunement theory because the body is the instrument and the soul is the tuner. You cannot be in tune without the instrument. 
 
 
 
@@ -452,7 +452,7 @@ pg 175
 "As I read on I discovered a man who made no use of his Intelligence, and assigned to it no responsibility for the order of the world, but adduced reasons like air and ether and water and many other oddities. It seemed to me that he was just as inconsistent as if someone were to say 'The reason for everything that Socrates does is intelligence'"
 
 
-##### Basically, the argument that [[Anaxagoras]] made is that everything is that the air, earth, and the physical is the reason that intelligence exists. The truth is far from it. The physical such as a human body, or the world itself is a precondition. Without it, none of us would exist, but reason and intellect come after. It's like saying that Isaac Newton was a genius who revolutionized mathematics because the bones and all of his organs were in the right place and because the Earth has oxygen for him to breath.
+##### Basically, the argument that [[Anaxagoras]] made is that everything is that the air, earth, and the physical is the reason that intelligence exists. The truth is far from it. The physical such as a human body, or the world itself is a precondition. Without it, none of us would exist, but reason and intellect come after. It's like saying that Isaac Newton was a genius who revolutionized mathematics because the bones and all of his organs were in the right place and because the Earth has oxygen for him to breath. This is basically [[Causes and Conditions]]
 
 
 
