@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74e918fded2a16ed",
+        "id": "f931efb6fdc7fd55",
         "type": "tabs",
         "children": [
           {
-            "id": "3258dc67b54bc9c1",
+            "id": "164e20484f082d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/What is RAG.md",
+                "file": "6 - Main Notes/Jensen Huang and Nvidia's Dominance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is RAG"
+              "title": "Jensen Huang and Nvidia's Dominance"
             }
           }
         ]
@@ -181,41 +181,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "3258dc67b54bc9c1",
+  "active": "164e20484f082d37",
   "lastOpenFiles": [
-    "Attachments/923544850d12d8312c8367187c49214b 1.avif",
-    "Attachments/923544850d12d8312c8367187c49214b.avif",
-    "6 - Main Notes/What is RAG.md",
-    "5 - Templates/Main Note.md",
-    "2 - Source Material/books/Phaedo.md",
+    "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
     "2 - Source Material/books/Euthyphro.md",
+    "2 - Source Material/books/Phaedo.md",
+    "6 - Main Notes/What is RAG.md",
+    "Attachments/rag_image.avif",
+    "6 - Main Notes/[923544850d12d8312c8367187c49214b 1.avif.md",
+    "6 - Main Notes/Jensen Huang and Nvidia's Dominance.md",
+    "Untitled.canvas",
     "2 - Source Material/books/The Apology.md",
+    "2 - Source Material/books/The Republic.md",
+    "2 - Source Material/books/Crito.md",
+    "2 - Source Material/books/Meditations.md",
+    "6 - Main Notes/Death and the soul after death.md",
+    "Attachments/Pasted image 20260323223650.jpg",
+    "Attachments/923544850d12d8312c8367187c49214b 1.avif",
+    "5 - Templates/Main Note.md",
     "3 - Tags/Causes and Conditions.md",
     "2 - Source Material/People/Simmias.md",
     "2 - Source Material/People/Cebes.md",
-    "2 - Source Material/books/The Republic.md",
     "2 - Source Material/People/Jensen Huang.md",
-    "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
-    "6 - Main Notes/Death and the soul after death.md",
     "3 - Tags/Immortality.md",
-    "6 - Main Notes/Jensen Huang and Nvidia's Dominance.md",
     "3 - Tags/Opposites.md",
     "2 - Source Material/People/Anaxagoras.md",
     "6 - Main Notes/2026-03-24.md",
     "3 - Tags/Theory of Recollection.md",
-    "Attachments/Pasted image 20260323223650.jpg",
     "Attachments/Pasted image 20260323223632.jpg",
     "Attachments",
     "3 - Tags/Diminishing Returns.md",
     "3 - Tags/AI.md",
     "3 - Tags/Economic Moat.md",
     "3 - Tags/Entrepreneurial.md",
-    "3 - Tags/Piety.md",
-    "3 - Tags/Truth.md",
-    "3 - Tags/Holiness.md",
     "6 - Main Notes/Untitled.base",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "2 - Source Material/People",
     "2 - Source Material/books/Untitled",
     "2 - Source Material/Videos",

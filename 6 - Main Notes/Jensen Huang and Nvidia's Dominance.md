@@ -1,13 +1,13 @@
 
 2026-03-23 19:32
 
-Status:
+Status: #baby 
 
 Tags: [[Entrepreneurial]], [[Economic Moat]], [[AI]]
 
 # [[Jensen Huang]] and Nvidia's Dominance
 
-##### Author: Lex Friedman
+##### Author: Lex Fridman
 
 
 ## References
@@ -16,7 +16,6 @@ https://www.youtube.com/watch?v=vif8NQcjVf0
 https://blog.2600hz.com/amdahls-law-and-parallel-computing
 
 ### Notes
-
 
 ## Amdahl's Law
 
@@ -43,35 +42,23 @@ So huge work on the parallel part only yields a modest overall gain because the 
 
 What is extreme co design
 
-##### What I got, is that NVIDIA is essentially co designing with the whole company. One team is working on the software side (CUDA) another team is working on the hardware. Another on research and development of GPUs and how to make components smaller and more efficient. It truly is a well oiled machine and a big system
+###### What I got, is that NVIDIA is essentially co designing with the whole company. One team is working on the software side (CUDA) another team is working on the hardware. Another on research and development of GPUs and how to make components smaller and more efficient. It truly is a well oiled machine and a big system
 
 
 
 
 
-Nvidia has experts on all. Such as GPU CPU
-
-All people attack of problem because the company is doing extreme codesign
+###### Nvidia has experts on all. Such as GPU and CPU. All people attack of problem because the company is doing extreme co design. Co design is multiple people of all disciplines to solve a problem. Nvidia is adapting to the environment
 
 
-Nvidia is adapting to the environment
-
-
-This is why they are now an AI factory
-
-Nvidia started as accelerator company. The domain is too narrow
-
-Market size dictates research and development size
-
-
-##### NVIDIA is a company that sees the value in investing in research and development. I think the practicality of this is to improve their hardware sure, but that means that they are in a better position to handle shifts in the market. From AI generation to AI agents.
+###### NVIDIA is a company that sees the value in investing in research and development. I think the practicality of this is to improve their hardware sure, but that means that they are in a better position to handle shifts in the market. From AI generation to AI agents.
 
 
 ## CUDA
 
 A computing platform is all about developers, they come because an install base is large. Developers want to reach enormous amount of people
 
-##### Makes sense. Put them in GeForce gpus that gamers are buying and now they have CUDA.
+###### Makes sense. Put them in GeForce GPUs that gamers are buying and now they have CUDA.
 
 x86 is the defining architectures. Incredible designed. Install base defines an architecture
 
@@ -80,6 +67,7 @@ CUDA was competing with OpenCL
 
 By that time GeForce GPUs were successful
 
+###### GeForce was the foundation of gaming.
 
 Jensen wanted to put CUDA on GeForce, so that people that bought the GPU would have access to it. So NVIDIA could slowly grow their base
 
@@ -110,7 +98,6 @@ Cuda is really flexible
   - Universities teach CUDA; many engineers learn it as the default GPU model.
 - Forward compatibility:
   - Older CUDA code keeps working and getting faster on new NVIDIA GPUs.
-
 
 
 ## Very Rough Timeline
@@ -152,8 +139,6 @@ Cuda is really flexible
 
 - Applications:
   - Scientific simulation, rendering, video processing, vision, speech, recommendation, LLMs, etc.
-
-
 
 
 ## Blockers to AI scaling laws
@@ -210,7 +195,7 @@ Jensen wants to use excess power for the data centers
 "We need things to be as complex as possible but as simple as possible"
 
 
-##### This quote from Jensen stuck with me, because as much as people say that simplicity is not complex enough, and that complexity is too impractical, one must reach the in between point here. It's just something that makes sense but is mind blowing
+###### This quote from Jensen stuck with me, because as much as people say that simplicity is not complex enough, and that complexity is too impractical, one must reach the in between point here. It's just something that makes sense but is mind blowing
 
 
 ## The tech industry in China
@@ -220,7 +205,7 @@ Jensen wants to use excess power for the data centers
 
 Mayor economy is a core component of China's hybrid economic model where mayors and local government officials take a direct, [[Entrepreneurial]] role in driving economic growth within their jurisdictions.
 
-##### This makes sense. When people on the small scale have direct control over economic growth, then that effect will cascade
+###### This makes sense. When people on the small scale have direct control over economic growth, then that effect will cascade
 
 
 This model is described in The New China Playbook, a book written by Keyu Jin. She writes the following : "Adams Smith's concept of invisible hands working behind the scenes is, in the case of China, replaced by the thousand-arm Buddha's extended and very visible hands"
@@ -229,16 +214,18 @@ This model is described in The New China Playbook, a book written by Keyu Jin. S
 Insane competition internally
 
 
-have a social culture with family first, friends second and company third.
+The culture in China has family first, friends second and company third.
 
 The open source community is better in China. Fastest innovating country in the world. Excellent education
 
-##### As much as people say that culture does not  play a role in an economy, China is a great example of how education can shape a nation.
+###### They also do not have copyright laws I thing.
+
+###### As much as people say that culture does not  play a role in an economy, China is a great example of how education can shape a nation.
 
 
 ## TSMC
 
-deepest misunderstanding is tech is all they have. Their ability to orchestrate demands of 100s of companies with high throughput and excellent customer service is miraculous
+Deepest misunderstanding is tech is all they have. Their ability to orchestrate demands of 100s of companies with high throughput and excellent customer service is miraculous
 
 Culture is tech focused but customer service oriented. Most companies are not both. 
 
@@ -268,7 +255,6 @@ NVIDIAS success is vital to the united states
 They are creating thousands of jobs
 
 
-
 ## AGI
 
 This is essentially an AI system that can do your job
@@ -290,7 +276,7 @@ Jensen basically says that software engineers will not be replaced since their m
 
 ## Will AI feel human emotions
 
-They will understand the feelings, but not feel them
+###### They will understand the feelings, but not feel them
 
 What is the subjective experience?
 

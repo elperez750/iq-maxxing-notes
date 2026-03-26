@@ -6,7 +6,7 @@ Status: #baby
 
 Tags: [[Game Theory]], [[Geopolitics]], [[Elite Overproduction]], [[Civil Conflict]], [[Theological Politics]]
 
-# How is the law of proximity effecting the conflict in iran
+# How is the law of proximity effecting the conflict in Iran
 
 ##### Author: Professor Jiang
 

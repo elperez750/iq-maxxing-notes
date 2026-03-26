@@ -1,3 +1,8 @@
 {
-  "cssTheme": "Dracula for Obsidian"
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#4ea5ca",
+  "theme": "moonstone",
+  "interfaceFontFamily": "New York",
+  "textFontFamily": "New York Extra Large",
+  "baseFontSize": 17
 }

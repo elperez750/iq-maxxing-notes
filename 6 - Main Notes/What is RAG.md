@@ -26,7 +26,7 @@ essentially, RAG is used to make LLM responses be more customized, by feeding it
 This not only makes sure that the LLM responses are accurate, but so that they are up to date. For most public LLMs, they have a training cutoff date where they no longer have context after a certain window
 
 
-##### After doing more research, it seems that the RAG is built on top of the GPT or any LLM. It uses the data it was trained on and then provides your context (Which in my case is my notes) to the LLM.
+###### After doing more research, it seems that the RAG is built on top of the GPT or any LLM. It uses the data it was trained on and then provides your context (Which in my case is my notes) to the LLM.
 
 
 ## Key concepts in RAG
@@ -76,14 +76,13 @@ Minimize Hallucinations: The training data used in RAG is crucial for fine-tunin
 
 
 
-![[923544850d12d8312c8367187c49214b 1.avif]]
-
-
+![[rag_image.avif]]
+[[rag_image.avif]]
 
 
 ## Essential steps in a RAG system
 
-- Document Loaders:These tools pull in data from various sources (text files, PDFs, databases…) They convert that info into a format the system can actually use. Basically, they make sure all the important data is ready and in the right shape for the next steps.
+- Document Loaders: These tools pull in data from various sources (text files, PDFs, databases…) They convert that info into a format the system can actually use. Basically, they make sure all the important data is ready and in the right shape for the next steps.
 
 ##### Essentially this will be the logic that takes in the markdown files. What does it mean by right shape though?
 
