@@ -7,7 +7,7 @@ Tags: [[Political Justice]], [[Truth]], [[Ignorance]], [[Manipulation]], [[Exami
 
 # The Apology
 
-##### Author:
+##### Author: [[Plato]]
 
 
 ## References

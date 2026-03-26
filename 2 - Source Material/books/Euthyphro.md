@@ -8,7 +8,7 @@ Tags: [[Contradictions in arguments]], [[Piety]], [[Holiness]], [[Divine Command
 
 # Euthyphro
 
-##### Author: Plato
+##### Author: [[Plato]]
 
 
 ## References
