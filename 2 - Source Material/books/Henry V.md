@@ -26,6 +26,7 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 - **John of Gaunt** — This is the grandfather of Henry. He is a patron of writers including [[Geoffrey Chaucer]]. He is a soldier, a diplomat, and the protector of radical theologians such as John Wyclif.
 - **Thomas Mowbray** — One of the appellant's; he is the one who is about to duel Henry IV before the fight is stopped.
 - **Thomas of Lancaster** — Brother of Henry V
+- **Thomas Arundel** — The former archbishop of Canterbury, who was banished in 1397 by the 1397 parliament that executed his brother.
 
 
 ---
