@@ -19,7 +19,7 @@ https://www.datacamp.com/tutorial/building-a-rag-system-with-langchain-and-fasta
 
 ### Notes
 
-## What is Retrieval Augmented Generation (RAG)?
+## What is Reinforcement Augmented Generation (RAG)?
 
 essentially, RAG is used to make LLM responses be more customized, by feeding it data specific your company, or in the case of my project, for notes
 
@@ -123,6 +123,10 @@ Minimize Hallucinations: The training data used in RAG is crucial for fine-tunin
 
 ###### Answer: No it is not ascii lol. Instead it is set to random when first trained. Over training, the vectors for words that are similar end up near each other whereas ideas completely unrelated end up farther apart.
 
+
+## Actual code in the project
+
+- A chunk is essentially a group of words from the document. 
 
 
 
