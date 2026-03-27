@@ -24,7 +24,8 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 - **[[Henry IV]]** — This is the father of prince Henry. He overthrew the previous [[King Richard II]]
 - **Richard II** — This is the man who was king before Henry. Ruthless, childish, and will do not stop to get revenge
 - **John of Gaunt** — This is the grandfather of Henry. He is a patron of writers including [[Geoffrey Chaucer]]. He is a soldier, a diplomat, and the protector of radical theologians such as John Wyclif.
-- 
+- **Thomas Mowbray** — One of the appellant's; he is the one who is about to duel Henry IV before the fight is stopped.
+- **Thomas of Lancaster** — Brother of Henry V
 
 
 ---
@@ -83,8 +84,37 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 
 ###### In this chapter Henry will learn what an enraged king is willing to do to those that humiliated him. Richard II saw his mentor die due to a deranged council that stripped him of his power when he was only 10.
 
+>pg. 26
+>"Bolingbroke joined a faction of noblemen who took the teenaged King Richard to task for the inadequacies of his kingship"
 
 
+## Chapter 4: ROUGH JUSTICE
+
+###### This is after the appellants (Another name for the council who defied Richard and sentenced his mentor to death) are themselves sentenced to death. Henry IV escapes death.
+
+
+>pg. 37
+>"frequently shines his kingly light on the young man in a way that is either very flattering or terrifyingly passive-aggressive"
+
+
+
+>pg. 37
+>"Henry will show both a deep and abiding respect for Richard's memory and an instinctive grasp of high political theatre. He surely learns at least some of this from watching Richard at first hand."
+
+
+###### Henry IV and Mowbray agree to the duel, but the duel is ended by Richard before it can began.. He lists the following punishments for both:
+
+>pg. 41
+>"Henry of Lancaster shall quit the realm for the term of ten years, and , if he return to the country before the ten years are passed, he shall be hanged and beheaded
+
+
+>pg. 41
+>"Thomas of Mowbray, Duke of Norfolk, shall quit the real for the rest of his life, and shall choose whether he would dwell in Prussia, in Bohemia, or in Hungary, or would go right beyond sea to the land of the Saracens and unbelievers"
+
+
+###### Saracens = Muslims.
+
+###### Thomas, the brother of Henry V, will go to Paris his his father, while Henry V stays with [[John of Gaunt]] in England in the orbit of [[King Richard II]].
 
 ---
 
