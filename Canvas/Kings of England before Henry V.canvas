@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"31b54bbfcc1e32d5","type":"file","file":"Attachments/images.webp","x":100,"y":-380,"width":397,"height":400},
+		{"id":"f17731f2db74983e","type":"file","file":"Attachments/Pasted image 20260326183142.jpg","x":-520,"y":-380,"width":306,"height":400},
+		{"id":"c7d968342d400f45","type":"file","file":"Attachments/Pasted image 20260326183201.jpg","x":-1040,"y":-380,"width":302,"height":400},
+		{"id":"0a4409400a15e2c9","x":-521,"y":-503,"width":250,"height":60,"type":"text","text":"The kings before Henry V"}
+	],
+	"edges":[
+		{"id":"bae5d72d24dab791","fromNode":"c7d968342d400f45","fromSide":"right","toNode":"f17731f2db74983e","toSide":"left"},
+		{"id":"d025ded5788d1f8a","fromNode":"f17731f2db74983e","fromSide":"right","toNode":"31b54bbfcc1e32d5","toSide":"left"}
+	]
+}
