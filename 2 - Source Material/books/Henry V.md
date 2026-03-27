@@ -1,7 +1,7 @@
 date: 2026-03-26 
 time: 18:14 
 status: #baby  
-tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Service to the crown]]
+tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Service to the crown]], [[Duty and Obligation]],
 
 # Henry V
 **Author:**  Dan Jones
@@ -32,7 +32,9 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ---
 
 ## Main Themes
-- 
+- [[Revenge]]
+- [[Power]]
+- [[]]
 
 ---
 
@@ -151,3 +153,5 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 
 ## Best Passages / Moments
 *Memorable scenes, turns of phrase, key arguments*
+
+

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Political Justice]], [[Truth]], [[Ignorance]], [[Manipulation]], [[Examined Life]]
+Tags: [[Political Justice]], [[Truth]], [[Ignorance]], [[Manipulation]], [[Examined Life]], [[Duty and Obligation]]
 
 # The Apology
 
