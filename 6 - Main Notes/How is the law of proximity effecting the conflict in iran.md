@@ -170,7 +170,6 @@ Book of job: Job is wealthy. job loses everything, heightens his faith to god. P
 
 #### Divide in Iran
 
-
 This is the major divide. Islamic theocracy in conflict with secular nationalists, and ethnic groups. This is the rural urban divide. Secular nationalists want science and tech. Islamic theocrats want tradition. You become more extreme in war. Over time islamists will become more radical. Secular nationalists will become Persian exceptionality. Will this lead to civil war? Iran cannot fight civil war right now. The law of proximity teachers us that people are more interested in internal conflict. 
 
 
