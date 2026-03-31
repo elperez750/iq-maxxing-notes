@@ -106,6 +106,7 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ###### This is essentially old skeletons in the closet coming to haunt the appellants. The ones who stripped Richard of power when he was only 10. Now he will come back to punish them. I feel like this would show Prince Henry that old problems will always come back to light.
 
 
+
 ## Chapter 4: ROUGH JUSTICE
 
 ###### This is after the appellants (Another name for the council who defied Richard and sentenced his mentor to death) are themselves sentenced to death. Henry IV escapes death.
@@ -157,12 +158,14 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ## Connections
 *What does this link to? Other books, figures, ideas*
 - Connects to: 
-- Reminds me of:
+- Reminds me of: [[The Prince]]
 
 ---
 
 ## Open Questions
 *What did this book leave unresolved or make me curious about?*
+
+
 
 ---
 
