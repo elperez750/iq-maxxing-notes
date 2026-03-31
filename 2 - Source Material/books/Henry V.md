@@ -1,7 +1,7 @@
 date: 2026-03-26 
 time: 18:14 
 status: #baby  
-tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Service to the crown]], [[Duty and Obligation]],
+tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Service to the crown]], [[Duty and Obligation]], [[Manipulation]]
 
 # Henry V
 **Author:**  Dan Jones
@@ -34,7 +34,10 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ## Main Themes
 - [[Revenge]]
 - [[Power]]
-- [[]]
+- [[Manipulation]]
+- [[Will To Power]]
+- [[Legitimacy]]
+
 
 ---
 
@@ -65,6 +68,12 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"From his earliest years Henry is well-read and interested in the world of words and ideas: an admire of men who wield the pen as well as the sword"
 
 
+###### From a young age, Henry lives a different life than most people in England. Although that is the case, there is no magic that can save infants from dying at a young age. I think it was mentioned that 1 in 5 infants die at birth.
+
+
+
+
+
 ## Chapter 2: THE PRICE OF PEACE
 
 ###### This is a chapter where Henry learns about how kings maintain power.  King Richard goes to France to marry Charles VI's daughter.
@@ -82,6 +91,9 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"He spends huge sums with mercers and tailors and always dressed magnificently — today he wears scarlet; on another it will be white and green; on a third he may appear clad in all gold. All of this leave a deep impression on Henry, as his later life will show."
 
 
+###### The thing that must've stuck with Henry is the fact that as a king, you don't have the freedom to do what you want. There are man responsibilities that must be taken care of. A king must be virtuous and must take care of it's citizens, otherwise the masses will overwhelm the elite. I wonder what [[Machavelli]] writes about this in [[The Prince]]
+
+
 
 ## Chapter 3: BEHOLD, I WILL OPEN YOUR GRAVES
 
@@ -89,6 +101,9 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 
 >pg. 26
 >"Bolingbroke joined a faction of noblemen who took the teenaged King Richard to task for the inadequacies of his kingship"
+
+
+###### This is essentially old skeletons in the closet coming to haunt the appellants. The ones who stripped Richard of power when he was only 10. Now he will come back to punish them. I feel like this would show Prince Henry that old problems will always come back to light.
 
 
 ## Chapter 4: ROUGH JUSTICE
