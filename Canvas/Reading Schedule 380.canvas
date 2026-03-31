@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"afe5e3f780439335","type":"file","file":"Attachments/Screenshot 2026-03-31 at 11.13.28 AM.png","x":-280,"y":60,"width":660,"height":465},
+		{"id":"9a456120e45c7a11","type":"text","text":"Reading Schedule\n","x":-340,"y":-180,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c196fae445a3059d","fromNode":"9a456120e45c7a11","fromSide":"top","toNode":"afe5e3f780439335","toSide":"top"}
+	]
+}
