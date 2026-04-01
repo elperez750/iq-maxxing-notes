@@ -33,6 +33,9 @@ Tags:
 
 **Database management system (DBMS)** - This is a computerized system that enables users to create and maintain a database.
 
+###### Essentially this is the software level between the code and raw files.
+
+
 A **database** is a collection of related data, organized so it can be meaningfully interpreted and efficiently accessed.
 
 #### A database has the following:
