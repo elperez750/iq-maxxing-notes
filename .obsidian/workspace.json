@@ -4,53 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "f931efb6fdc7fd55",
+        "id": "8600f2b4f3d955aa",
         "type": "tabs",
         "children": [
           {
-            "id": "37216b865b30c64e",
+            "id": "a981a90694ba76be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "6 - Main Notes/Videos/The Return of History.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/The Database Environment system.canvas",
+                "viewState": {
+                  "x": 180,
+                  "y": 123,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "The Return of History"
-            }
-          },
-          {
-            "id": "8d45c09877d0417b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Systems Development Life Cycle Model"
-            }
-          },
-          {
-            "id": "9e3f1146123e8ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Database System Concepts and Architecture"
+              "icon": "lucide-layout-dashboard",
+              "title": "The Database Environment system"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,63 +181,62 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "smart-random-note:Open Random Note from Search": false
+      "bases:Create new base": false
     }
   },
-  "active": "9e3f1146123e8ef1",
+  "active": "a981a90694ba76be",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260331212128.png",
-    "Attachments/Pasted image 20260331211743.png",
+    "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
+    "Attachments/Pasted image 20260401103921.png",
+    "Attachments/Pasted image 20260401103137.png",
+    "Attachments/Pasted image 20260401103107.png",
+    "Attachments/Pasted image 20260401102937.png",
+    "Canvas/The Database Environment system.canvas",
+    "Attachments/Pasted image 20260401100337.png",
+    "6 - Main Notes/Untitled 1.base",
+    "6 - Main Notes/Untitled.base",
     "6 - Main Notes/Class Notes/Introduction To Databases.md",
     "6 - Main Notes/Class Notes/Rational Unified Process.md",
-    "Attachments/Pasted image 20260331203724.png",
-    "Canvas/College Database example.canvas",
     "Canvas/Reading Schedule 420.canvas",
-    "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
+    "Canvas/College Database example.canvas",
+    "Attachments/Pasted image 20260331212128.png",
+    "Attachments/Pasted image 20260331211743.png",
+    "Attachments/Pasted image 20260331203724.png",
     "Attachments/Pasted image 20260331200004.png",
     "Attachments/Pasted image 20260331195950.png",
-    "Attachments/Pasted image 20260331195935.png",
-    "Attachments/Pasted image 20260331195921.png",
-    "Attachments/Pasted image 20260331195907.png",
-    "Attachments/Pasted image 20260331195636.png",
-    "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
-    "Attachments/Pasted image 20260331185858.png",
-    "3 - Tags/Project Management.md",
-    "6 - Main Notes/Videos/The Return of History.md",
-    "Attachments/Pasted image 20260331185130.png",
     "3 - Tags/Software Development.md",
-    "2 - Source Material/books/Henry V.md",
+    "3 - Tags/Project Management.md",
     "2 - Source Material/books/Symposium.md",
     "Canvas/Reading Schedule 380.canvas",
-    "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
+    "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
+    "2 - Source Material/books/Henry V.md",
     "6 - Main Notes/Class Notes",
-    "3 - Tags/Will To Power.md",
-    "3 - Tags/The Prince.md",
     "3 - Tags/Machavelli.md",
-    "2 - Source Material/books/The Republic.md",
-    "2 - Source Material/books/Meditations.md",
-    "2 - Source Material/books/Euthyphro.md",
-    "2 - Source Material/books/Crito.md",
-    "5 - Templates/Biography.md",
-    "5 - Templates/Main Note.md",
-    "Untitled.canvas",
-    "6 - Main Notes/Videos/How is the law of proximity effecting the conflict in iran.md",
-    "3 - Tags/Law of Proximity.md",
-    "2 - Source Material/books/Phaedo.md",
-    "3 - Tags/Pax Americana.md",
-    "3 - Tags/Bretton Woods.md",
-    "3 - Tags/Communism.md",
-    "6 - Main Notes/Videos",
-    "6 - Main Notes/Podcasts",
+    "3 - Tags/Roman Empire.md",
     "Canvas/Kings of England before Henry V.canvas",
+    "3 - Tags/The Prince.md",
+    "3 - Tags/Will To Power.md",
+    "2 - Source Material/books/Crito.md",
+    "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
+    "6 - Main Notes/Videos/How is the law of proximity effecting the conflict in iran.md",
+    "6 - Main Notes/Videos/The Return of History.md",
+    "2 - Source Material/books/Euthyphro.md",
+    "5 - Templates/Biography.md",
+    "2 - Source Material/books/The Apology.md",
+    "2 - Source Material/books/Meditations.md",
+    "2 - Source Material/books/Phaedo.md",
     "Canvas",
+    "6 - Main Notes/What is RAG.md",
+    "6 - Main Notes/Videos",
+    "6 - Main Notes/Podcasts/Jensen Huang and Nvidia's Dominance.md",
+    "6 - Main Notes/Podcasts",
+    "3 - Tags/Too Big To Fail.md",
+    "3 - Tags/Slavery.md",
     "Attachments",
-    "6 - Main Notes/Untitled.base",
     "Untitled 1.canvas",
+    "Untitled.canvas",
     "2 - Source Material/People",
     "2 - Source Material/books/Untitled",
-    "2 - Source Material/Videos",
-    "2 - Source Material/books"
+    "2 - Source Material/Videos"
   ]
 }

@@ -88,3 +88,110 @@ Tags:
 - Physical data independence -  The capacity to change the internal schema without having to change the conceptual schema.
 
 
+
+
+## Database Languages and Interfaces
+
+
+
+### DBMS Languages
+
+- One language is maintained, called the **Data definition language** (DDL)
+
+- Another language is used to specify the internal schema. This is the **Storage definition language**(SDL)
+
+- Another language is used to specify user views and their mappings to the conceptual schema. This is **View definition language**(VDL)
+
+- A language must be put in place to retrive, insert, delete, and modify the data. This is the **Data manipulation language**(DML)
+
+###### So this is basically SQL? I mean this is the language that is used to write queries for the most part.
+
+
+
+### DBMS Interfaces
+
+#### Menu-based interfaces for Web Clients or Browsing
+
+* These interfaces present the user with lists of options (called menus) that lead the user through the formulation of a request. 
+
+###### Essentially, it sounds just like the GUI that is provided with PostgresSQL
+
+
+#### Apps for Mobile devices
+
+- These interfaces present mobile users with access to  their data.
+
+###### So essentially, this will just have be like a banking app, where users can access their data.
+
+
+## The Database System Environment
+
+### DBMS Component Modules
+
+- The database and the DBMS catalog are usually stored on disk
+- Access to the  disk is controlled primarily by the **operating system (OS)**
+- Many DBMSs have their own **buffer management** module to schedule disk read/write, because management of buffer storage has a considerable  effect on performance.
+- A **Query compiler** compiles the query into an internal form
+- **Query optimizer** is concerned with the rearrangement and possible reordering of operations
+- The **Precompiler** extracts DML commands from an application program written in a host programming language.
+
+
+
+### Database System Utilities
+
+- **Loading** -  loading utility is used to load existing data files—such as text  files or sequential files—into the database
+- **Backup** - A backup utility creates a backup copy of the database, usually by  dumping the entire database onto tape or other mass storage medium
+- **Database storage reorganization** - Such a utility monitors database usage and provides statistics to the DBA
+- **Performance monitoring** - Such a utility monitors database usage and provides statistics to the DBA
+
+
+### Tools, Application Environments, and Communications Facilities
+
+- **Data dictionary** - This is used to store catalog information about schemas and constraints, as well as sdesign decisions, usage standards, application program descriptions, and user information
+
+
+## Centralized and Client/Server Architectures for DBMSs
+
+### Centralized DBMSs Architectures
+- Older architectures use mainfram computers to provide the amin processing for all system functions, including user application programs and user interface programs
+- The reason was that in older systems, most users accessed the DBMS via computer terminals that did not have processing power and only provided display capabilities.  
+
+![[Pasted image 20260401102937.png]]
+
+
+### Basic Client/ Server Architectures
+- **Client/server architecture** - This was developed to deal with computing environments in which a large number of PCs, workstations, file servers, printers, database servers, web servers, email servers also fall into this category
+
+![[Pasted image 20260401103107.png]]
+
+
+![[Pasted image 20260401103137.png]]
+
+
+
+### Two-Tier Client/Server Architectures for DBMSs
+
+- The server is often called a **query server** or **transaction server** because it provides these two functionalities. In an RDBMS, the server is  also often called an SQL server
+
+- A standard called **Open Database Connectivity (ODBC)** provides an **application programming interface (API)**,  which allows client-side programs to call the DBMS, as long as both client and  server machines have the necessary software installed
+
+- The architectures described here are called **two-tier** architectures because the software components are distributed over two systems: client and server.
+
+
+### Three-Tier and n-Tier Architectures for Web Applications.
+
+- Many Web applications use an architecture called the **three-tier architecture**
+
+
+![[Pasted image 20260401103921.png]]
+
+
+
+## Classification of Database Management Systems
+
+
+- Data model is a way to classify these systems
+- The main data model for most commercial DBMSs is the **relational data model**.
+- **object model** is another one but has not gained widespread attention
+- 
+
