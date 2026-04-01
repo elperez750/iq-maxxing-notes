@@ -129,6 +129,7 @@ https://cwu.instructure.com/courses/116264/files/15993920?module_item_id=4657550
 #### This is basically a specific instance of the SDLC model. 
 
 #### The five phases are the following:
+
 - Requirements
 - Design
 - Implementation
@@ -155,8 +156,7 @@ https://cwu.instructure.com/courses/116264/files/15993920?module_item_id=4657550
 ###### From what I'm getting, waterfall would be good for projects where not much changes and where everything is solid from the start. If the project takes too much, this kind of project management system would be terrible
 
 
-###### For a project that would change a lot, I'm thinking that a project such as 
-
+###### For a project that would change a lot, I'm thinking that a project such as a system to manage customer affairs might be good for this, since that requires a lot of security and planning. Something that the slow development time will be able to help with
 
 
 
@@ -171,12 +171,103 @@ https://cwu.instructure.com/courses/116264/files/15993920?module_item_id=4657550
 
 ### Requirements
 
-#### This 
+- This stage is similar to planning, analysis, and design phases of SDLC
+
+
 
 ### User Design
 
 
+- the users' representatives work with the system analysts, designers, and programmers to interactively create the system's design. 
+
+- One technique for working with all of these various stakeholders is the Joint Application Development (JAD) session. 
+
+- A JAD session gets all relevant users who interact with the systems from different perspectives, other key stakeholders, including developers, to have a structured discussion about the system's design. 
+
+- The objectives are for users to understand and adopt the working model and for the developers to understand how the system needs to work from the user’s perspective to provide a positive user experience.
+
+
 ### Construction
 
+- the tasks are similar to SDLC’s implementation phase. 
+
+- The developers continue to work interactively with the users to incorporate their feedback as they interact with the working model that is being developed. 
+
+- This is an interactive process, and changes can be made as developers are working on the program. This step is executed parallel with the User Design step in an iterative fashion until an acceptable version of the product is developed.
 
 ### Cutover
+
+
+- This step is similar to some of the SDLC implementation phase tasks. 
+- The system goes live or is fully deployed. All steps required to move from the previous state to using the new system are completed here.
+
+
+
+### Advantages and Disadvantages of RAD
+
+| Advantages                                                                                                            | Disadvantages                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Increase quality due to the frequency of interacting with the users                                                   | Risks of weak implementation of features that are not visible to the users, such as security                 |
+| Reduce risks of users’ refusal to accept the finished product                                                         | Lack of control over the system changes due to a working version's fast turn-around to address users’ issues |
+| Improve chances of on-time, on-budget completion as users update in real-time, avoiding surprises during development. | Lack of design since changes are being put in the system might unknowingly affect other parts of the system. |
+| Increase interaction time between developers/experts and users                                                        | Scarce resources as developers are tied up, which could slow down other projects.                            |
+| Best suited for small to medium size project teams                                                                    | Difficult to scale up to large teams                                                                         |
+
+###### Yeah I can see why security might not be the focal point here. It seems that the thing that is good about this system is that you can quickly iterate on the users needs, and get feedback immediately. But with the changes being done so fast, you might wonder if the security and other important features might be up to par.
+
+
+###### I can't really think of any apps that would be good with this system. What I mean is I can't think of an app where the tradeoff for security can be taken here.
+
+
+
+## Agile Development Method
+
+#### Characteristics of Agile include the following:
+
+- small cross-functional teams that include development-team members and users;
+###### Small teams
+
+- daily status meetings to discuss the current state of the project;
+
+- short time-frame increments (from days to one or two weeks) for each change to be completed
+
+
+- At the end of each iteration, a working project is completed to demonstrate to the stakeholders.
+
+###### Basically, it is a way for the team to move faster in the development cycle.
+
+
+## Scrum Development
+
+#### This is a Agile development method. The following are some attributes of it.
+
+
+### Product Backlog
+
+- This is a detailed breakdown list of work to be done. 
+- All the work is prioritized based on criteria such as risks, dependencies, mission-critical, etc. Developers select their own tasks and self-organize to get the work done.
+
+### Sprint Backlog
+
+- This is a list of the work to be done in the next sprint
+
+
+### Sprint
+
+- This is a fixed time, such as 1-day, 2-weeks, or 4-weeks, as agreed by the team. 
+- A daily progress meeting is called a daily scrum, typically a short 10-15 minute meeting facilitated by a scrum master whose role is to remove roadblocks for the team.
+
+### Working increment of the software
+
+- This is a working version that is incrementally built with the breakdown lists at the end of
+the sprints.
+
+
+## Lean Methodology
+
+#### Basically, this methodology does not know the all the features of the app
+
+
+#### The developers will build the product with the least amount of features to be considered successful.
+
+
