@@ -99,6 +99,7 @@ A **database** is a collection of related data, organized so it can be meaning
 
 #### This is called program-data independence
 
+#### The key separation is logical schema vs physical storage; DB can reorganize files or add indexes without changing my queries.
 
 ###### Essentially, if we change the schema of a student table and add phone number, in a DBMS system, when we add a new student, they will now possess this attribute
 
@@ -238,9 +239,6 @@ A **database** is a collection of related data, organized so it can be meaning
 
 
 
-
-
-
 ### Representing Complex Relationships among Data
 
 #### A database may include numerous varieties of data that are interrelated in many  ways.
@@ -256,7 +254,6 @@ A **database** is a collection of related data, organized so it can be meaning
 
 ###### The most common seems to be data types. For example, the student name can most likely not be an integer, and the age can no likely be a string. This is common sense
 
-
 ###### This might also include size of a certain field. Maybe name has to be less than 100 characters, since realistically most people do not have a name that is that long, and if the constraint were longer, people would be able to have longer names which would obviously take up more space.
 
 
@@ -270,8 +267,6 @@ A **database** is a collection of related data, organized so it can be meaning
 ###### So in the example of a school database, this could be logic set in place to determine whether a student is on probation based on grades
 
 ###### The logic could take into account the number of absences, number of failed classes since they started, and much more.
-
-
 
 
 ## When Not to Use a DBMS
