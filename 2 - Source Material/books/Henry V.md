@@ -46,7 +46,7 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 
 # The Prince
 
-## Chapter 1: THE BOY IN THE BLACK STRAW HAT
+### Chapter 1: THE BOY IN THE BLACK STRAW HAT
 
 ###### This is the chapter where Henry is born, and where we are introduced into the world which he was born into.
 
@@ -65,7 +65,7 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"From his earliest years Henry is well-read and interested in the world of words and ideas: an admire of men who wield the pen as well as the sword"
 
 
-## Chapter 2: THE PRICE OF PEACE
+### Chapter 2: THE PRICE OF PEACE
 
 ###### This is a chapter where Henry learns about how kings maintain power.  King Richard goes to France to marry Charles VI's daughter.
 
@@ -83,7 +83,7 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 
 
 
-## Chapter 3: BEHOLD, I WILL OPEN YOUR GRAVES
+### Chapter 3: BEHOLD, I WILL OPEN YOUR GRAVES
 
 ###### In this chapter Henry will learn what an enraged king is willing to do to those that humiliated him. Richard II saw his mentor die due to a deranged council that stripped him of his power when he was only 10.
 
@@ -91,7 +91,7 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"Bolingbroke joined a faction of noblemen who took the teenaged King Richard to task for the inadequacies of his kingship"
 
 
-## Chapter 4: ROUGH JUSTICE
+### Chapter 4: ROUGH JUSTICE
 
 ###### This is after the appellants (Another name for the council who defied Richard and sentenced his mentor to death) are themselves sentenced to death. Henry IV escapes death.
 
