@@ -74,12 +74,6 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ###### From a young age, Henry lives a different life than most people in England. Although that is the case, there is no magic that can save infants from dying at a young age. I think it was mentioned that 1 in 5 infants die at birth.
 
 
-
-
-
-## Chapter 2: THE PRICE OF PEACE
-
-
 #### This is a chapter where Henry learns about how kings maintain power.  King Richard goes to France to marry Charles VI's daughter.
 
 >pg. 15
@@ -115,9 +109,6 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ###### I wonder if this will teach Prince Henry to not have any mercy on his enemies? I mean why leave people alive that might come back for vengeance?
 
 
-
-
-## Chapter 4: ROUGH JUSTICE
 
 
 #### This is after the appellants (Another name for the council who defied Richard and sentenced his mentor to death) are themselves sentenced to death. Henry IV escapes death.
