@@ -1,7 +1,7 @@
 date: 2026-03-26 
 time: 18:14 
 status: #baby  
-tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Service to the crown]], [[Duty and Obligation]],
+tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Service to the crown]], [[Duty and Obligation]], [[Manipulation]]
 
 # Henry V
 **Author:**  Dan Jones
@@ -34,7 +34,10 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ## Main Themes
 - [[Revenge]]
 - [[Power]]
-- [[]]
+- [[Manipulation]]
+- [[Will To Power]]
+- [[Legitimacy]]
+
 
 ---
 
@@ -65,9 +68,19 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"From his earliest years Henry is well-read and interested in the world of words and ideas: an admire of men who wield the pen as well as the sword"
 
 
+
 ### Chapter 2: THE PRICE OF PEACE
 
-###### This is a chapter where Henry learns about how kings maintain power.  King Richard goes to France to marry Charles VI's daughter.
+###### From a young age, Henry lives a different life than most people in England. Although that is the case, there is no magic that can save infants from dying at a young age. I think it was mentioned that 1 in 5 infants die at birth.
+
+
+
+
+
+## Chapter 2: THE PRICE OF PEACE
+
+
+#### This is a chapter where Henry learns about how kings maintain power.  King Richard goes to France to marry Charles VI's daughter.
 
 >pg. 15
 >"Boys like Henry represent the future. They are also bargaining chips. Indeed, talk of arranging a weeing for Henry abounds while they are in France."
@@ -82,6 +95,9 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"He spends huge sums with mercers and tailors and always dressed magnificently — today he wears scarlet; on another it will be white and green; on a third he may appear clad in all gold. All of this leave a deep impression on Henry, as his later life will show."
 
 
+###### The thing that must've stuck with Henry is the fact that as a king, you don't have the freedom to do what you want. There are man responsibilities that must be taken care of. A king must be virtuous and must take care of it's citizens, otherwise the masses will overwhelm the elite. I wonder what [[Machavelli]] writes about this in [[The Prince]]
+
+
 
 ### Chapter 3: BEHOLD, I WILL OPEN YOUR GRAVES
 
@@ -91,10 +107,23 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"Bolingbroke joined a faction of noblemen who took the teenaged King Richard to task for the inadequacies of his kingship"
 
 
+
 ### Chapter 4: ROUGH JUSTICE
 
-###### This is after the appellants (Another name for the council who defied Richard and sentenced his mentor to death) are themselves sentenced to death. Henry IV escapes death.
+###### This is essentially old skeletons in the closet coming to haunt the appellants. The ones who stripped Richard of power when he was only 10. Now he will come back to punish them. I feel like this would show Prince Henry that old problems will always come back to light.
 
+###### I wonder if this will teach Prince Henry to not have any mercy on his enemies? I mean why leave people alive that might come back for vengeance?
+
+
+
+
+## Chapter 4: ROUGH JUSTICE
+
+
+#### This is after the appellants (Another name for the council who defied Richard and sentenced his mentor to death) are themselves sentenced to death. Henry IV escapes death.
+
+
+###### Sidenote: One of the appellants was just exiled. But yes, [[King Richard II]] got his revenge on them.
 
 >pg. 37
 >"frequently shines his kingly light on the young man in a way that is either very flattering or terrifyingly passive-aggressive"
@@ -105,7 +134,9 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"Henry will show both a deep and abiding respect for Richard's memory and an instinctive grasp of high political theatre. He surely learns at least some of this from watching Richard at first hand."
 
 
-###### Henry IV and Mowbray agree to the duel, but the duel is ended by Richard before it can began.. He lists the following punishments for both:
+###### What does he mean by political theatre? Does he mean manipulation?
+
+#### Henry IV and Mowbray agree to the duel, but the duel is ended by Richard before it can began.. He lists the following punishments for both:
 
 >pg. 41
 >"Henry of Lancaster shall quit the realm for the term of ten years, and , if he return to the country before the ten years are passed, he shall be hanged and beheaded
@@ -135,19 +166,22 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 >"From his earliest years Henry is well-read and interested int he  world of words and ideas: an admirer of men who wield the pen as well as the 'sword."
 
 
-
+###### The amount of people who are illerate in the middle ages is wild. I mean I know that books were not mass produced until the printing press came along in the 1500s, but what other factors were in play? I wonder how the literacy rate compared to how it was at the time of the height of the [[Roman Empire]].
 
 ---
 
 ## Connections
 *What does this link to? Other books, figures, ideas*
-- Connects to: 
-- Reminds me of:
+- Connects to: [[Julius Caesar]]
+- Reminds me of: [[The Prince]]
 
 ---
 
 ## Open Questions
 *What did this book leave unresolved or make me curious about?*
+
+
+
 
 ---
 
@@ -155,3 +189,4 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 *Memorable scenes, turns of phrase, key arguments*
 
 
+###### Paste in moment where Prince Henry gets shot in the face and keeps fighting. Fucking badass
