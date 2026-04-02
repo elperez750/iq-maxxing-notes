@@ -64,5 +64,17 @@ Can you find a formula to represent this sequence?
 #### The recurrence formula is the following: $a_n=\frac{1}{2}a_{n-1}$
 
 
-### Question 2: Another example would be the number of M&Ms from the M&M death scenario. Say we started with 20 of these, so $a_0=20$ and our data looked like this: (20, 12, 6, 4, 3, 1, 0,0, 0...). What is $a_3$? What is $a_5$? What is $a_{10}$?
+### Question 2: Another example would be the number of M&Ms from the M&M death scenario. Say we started with 20 of these, so $$a_0=20$$ and our data looked like this: (20, 12, 6, 4, 3, 1, 0, 0, 0...). 
+
+### What is $a_3$? What is $a_5$? What is $a_{10}$?
+
+
+
+#### $a_3$ is simply 4, $a_5$ is 1, and $a_{10}$ is 0.
+
+###### There seems to be no pattern to this, so I do not think this is a recurrence.
+
+
+
+
 
