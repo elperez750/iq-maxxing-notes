@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
+                "file": "2 - Source Material/books/The Iliad/Book 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database System Concepts and Architecture"
+              "title": "Book 3"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,10 +184,16 @@
   },
   "active": "a981a90694ba76be",
   "lastOpenFiles": [
-    "6 - Main Notes/Class Notes/Introduction To Databases.md",
+    "2 - Source Material/books/Euthyphro.md",
+    "3 - Tags/Database Management.md",
+    "2 - Source Material/books/The Iliad/Book 3.md",
+    "2 - Source Material/books/The Iliad/Book 2.md",
+    "2 - Source Material/books/The Iliad/Book 1.md",
     "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
+    "2 - Source Material/books/The Iliad",
+    "2 - Source Material/books/The Iliad.md",
+    "6 - Main Notes/Class Notes/Introduction To Databases.md",
     "6 - Main Notes/Untitled.base",
-    "5 - Templates/Database Management.md",
     "Canvas/The Database Environment system.canvas",
     "Attachments/Pasted image 20260401103921.png",
     "Attachments/Pasted image 20260401103137.png",
@@ -218,22 +225,17 @@
     "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
     "6 - Main Notes/Videos/How is the law of proximity effecting the conflict in iran.md",
     "6 - Main Notes/Videos/The Return of History.md",
-    "2 - Source Material/books/Euthyphro.md",
     "5 - Templates/Biography.md",
     "2 - Source Material/books/The Apology.md",
     "2 - Source Material/books/Meditations.md",
     "2 - Source Material/books/Phaedo.md",
     "Canvas",
-    "6 - Main Notes/What is RAG.md",
     "6 - Main Notes/Videos",
-    "6 - Main Notes/Podcasts/Jensen Huang and Nvidia's Dominance.md",
     "6 - Main Notes/Podcasts",
-    "3 - Tags/Too Big To Fail.md",
     "Attachments",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2 - Source Material/People",
-    "2 - Source Material/books/Untitled",
     "2 - Source Material/Videos"
   ]
 }
