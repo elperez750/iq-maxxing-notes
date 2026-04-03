@@ -47,7 +47,8 @@ We think of a sequence as a function on the nonnegative integer numbers so ${a_n
 
 
 
-#### Question 1: Consider the sequence $\left(1, \frac{1}{2}, \frac{1}{4}, \frac{1}{8}, \frac{1}{16}, \ldots\right)$. Let $a_0 = 1$. What is $a_3$? What is $a_4$?
+#### Question 1: 
+Consider the sequence $\left(1, \frac{1}{2}, \frac{1}{4}, \frac{1}{8}, \frac{1}{16}, \ldots\right)$. Let $a_0 = 1$. What is $a_3$? What is $a_4$?
 
 
 ###### To me, it seems like the sequencing is decreasing by half of its value. Like 1 turns to 1/2, then 1/2 turns to 1/4
@@ -64,11 +65,8 @@ Can you find a formula to represent this sequence?
 #### The recurrence formula is the following: $a_n=\frac{1}{2}a_{n-1}$
 
 
-#### Question 2: Another example would be the number of M&Ms from the M&M death scenario. Say we started with 20 of these, so $$a_0=20$$ and our data looked like this: (20, 12, 6, 4, 3, 1, 0, 0, 0...). 
-
-#### What is $a_3$? What is $a_5$? What is $a_{10}$?
-
-
+#### Question 2: 
+Another example would be the number of M&Ms from the M&M death scenario. Say we started with 20 of these, so $a_0=20$ and our data looked like this: (20, 12, 6, 4, 3, 1, 0, 0, 0...).  What is $a_3$? What is $a_5$? What is $a_{10}$?
 
 #### Answer:
 #### $a_3$ is simply 4, $a_5$ is 1, and $a_{10}$ is 0.
@@ -83,22 +81,24 @@ Can you find a formula to represent this sequence?
 - The order is the spread between the highest term in the sequence that occurs in the recurrence relation and the lowest term in sequence that occurs in the recurrence relation.
 
 
-### Recurrence examples:
-
-
-#### $a_n=2a_{n-3}$ is the same as $a_{n+1}=2a_{n-2}$ and $a_{n+2}=2a_{n-1}$
-
-
+Recurrence examples:
+ $a_n=2a_{n-3}$ is the same as $a_{n+1}=2a_{n-2}$ and $a_{n+2}=2a_{n-1}$
 
 
 ###### This makes sense. The first term is $2a_{n-3}$ which means that the next term is one more and then the next term is one more than the previous
+
+These are not recurrences: $a_n=2(n-1)$, $b_{n+1}=n+3$, $c_n=\pi^n$
+
+###### This also makes sense, since we cannot get the previous terms from these.
+
 
 
 ###### So with recurrences we can find an arbitrary element, say $a_{10}$ because there is a formula. There is a pattern
 
 
 
-#### Exercise. Arithmetic sequence: The current term of a sequence is the sum of the prior term in the sequence and a constant amount which we call p. What is the recurrence?
+#### Exercise. 
+Arithmetic sequence: The current term of a sequence is the sum of the prior term in the sequence and a constant amount which we call p. What is the recurrence?
 
 
 ###### So initial thoughts. There must be a constant p, and we must also include the prior term.
@@ -125,7 +125,8 @@ By recognizing this pattern, the recurrence is the following:
 $a_n=x+np$
 
 
-#### Exercise: The first term in a sequence is 0, and the next term is 1. Subsequent terms are defined as the sum of the two prior terms. Write down the recurrence and initial conditions for this sequence.
+#### Exercise: 
+The first term in a sequence is 0, and the next term is 1. Subsequent terms are defined as the sum of the two prior terms. Write down the recurrence and initial conditions for this sequence.
 
 $a_0=0$
 $a_1=1$
@@ -154,7 +155,8 @@ Definition: A recurrence relation has the form $a_n=f(a_{n-1}, a_{n-2}, ..., a_{
 A **Solution to a recurrence** has the form $a_n=f(n)$
 
 
-#### Exercise: Let $a_n=a_{n-1}/a_{n-2} + a_{n-3}$ and $a_0=1, a_1=1, a_2=2$ What is the order of this recurrence relation?
+#### Exercise: 
+Let $a_n=a_{n-1}/a_{n-2} + a_{n-3}$ and $a_0=1, a_1=1, a_2=2$ What is the order of this recurrence relation?
 
 
 the answer is 3, since this is the spread between the furthest apart terms in the recurrence. Those being 0 and. 3
@@ -238,7 +240,7 @@ $a_n=a_{n-1}\times{2}$
 
 
 #### Exercise:
-To describe the M&m model with death an immigration, we found the recurrence was $b_n=0.5b_{n-1}+6$, $b_0=20$. Let's instead look at the general case for this recurrence, which is $a_n=ka_{n-1}+x$, $a_0=y$. Write out terms to $a_5$
+To describe the M&M model with death an immigration, we found the recurrence was $b_n=0.5b_{n-1}+6$, $b_0=20$. Let's instead look at the general case for this recurrence, which is $a_n=ka_{n-1}+x$, $a_0=y$. Write out terms to $a_5$
 
 $a_0=y$
 
@@ -248,11 +250,24 @@ $a_2=(k\times({k\times{a_0}}+x))+x$
 
 $a_3=k\times({k^2\times{a_0}+kx + x})+x$
 
+###### So here we are literally adding an extra term for each step. For example for $a_4$, there will be 3 more terms the $a_1$ 
 
 
 
+#### The Geometric Sum Formula:
+
+$c + cr + cr^2 + \cdots + cr^m = \sum_{i=0}^{m} cr^i = c\left(\frac{r^{m+1} - 1}{r - 1}\right)$
 
 
+###### So to compare this to our last problem, $a_0$ is c in this case, since it does not change. r would simply be k in this case, since we are multiplying by k each time.
+
+#### Exercise:
+Use the geometric sum formula to solve the recurrence in the previous exercise.
+
+using what we already know, we can set up the equation in the following way:
+
+
+$a_n=k^n \times{a_0}$ + $x (\frac{k^{n-1}-1}{k-1})$
 
 
 
