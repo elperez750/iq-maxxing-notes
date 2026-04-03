@@ -1,4 +1,4 @@
-
+wswls
 
 
 2026-04-02 20:21
@@ -65,6 +65,52 @@ STUDENT(Name, Ssn, Home_phone, Address, Office_phone, Age, Gpa)
 ###### This is degree 7 because it has 7 attributes.
 
 ![[Pasted image 20260402203035.png]]
+
+###### So the relation name is basically the name of the column, and then the tuples are the individual values? So a tuple for me would be: "Name: Elliott Perez, SSn:xxx" etc.
+
+
+
+### Characteristics of Relations
+
+
+#### Ordering of Tuples in a Relation
+- A relation is defined as a set of tuples.
+- Elements of a set have no ordering
+
+
+#### Ordering of Values within a Tuple and an Alternative Definition of a Relation
+- an n-tuple is an ordered list of n values
+-
+![[Pasted image 20260403155241.png]]
+
+
+
+![[Pasted image 20260403155256.png]]
+
+
+
+###### So depending on the ordering property, these could be represented in different ways.  As we see in this example, the name is first, and then in the second tuple, we see that address is first. 
+
+
+
+###### Usually the first definition is used, where the attributes are ordered in the relation schema and the values within tuples are similarly ordered
+
+
+
+There are usually several meanings for NULL values, such as value unknown, value exists but is not available, or attribute does not apply to this tuple.
+
+
+
+
+## Relational Model Constraints and Relational Database Schemas
+
+Constraints can be divided into three main categories:
+
+- Constraints that are inherent in the data model. We call these inherent model-based constraints or implicit constraints
+
+- Constraints that can be directly expressed in the schemas of the data model, typically by specifying them in the DDL 
+
+
 
 
 
