@@ -267,7 +267,168 @@ Use the geometric sum formula to solve the recurrence in the previous exercise.
 using what we already know, we can set up the equation in the following way:
 
 
-$a_n=k^n \times{a_0}$ + $x (\frac{k^{n-1}-1}{k-1})$
+$a_n=k^n \times{a_0}$ + $x (\frac{k^{n-1+1}-1}{k-1})$
+
+###### Never mind. It seems that c in this case is $k^n\times{a_{0}}$ 
+
+###### we will raise k to the power of n, since from the last problem, we were multiplying by another k. So we went from k to $k^2$ and then to $k^3$ and so on.
+
+
+simplifying the equation, we get:
+
+
+$a_n=k^n \times{a_0}$ + $x (\frac{k^{n}-1}{k-1})$
+
+
+###### Now we can use this to find the solution to the M&M Death and Immigration model. Remember the following:
+
+$b_n=0.5b_{n-1}+6$, $b_0=20$
+
+so
+
+$b_n=0.5^n\times{20}+6(\frac{0.5^n-1}{0.5-1})$
+
+
+###### For this specific problem, 0.5 will be k, since we are always multiplying 0.5 with the previous term. 6 would be x, since that is what we are always adding.
+
+
+#### Exercise: 
+Solve the recurrence $c_n=kc_{n-1}+x$, $c_0=x$ by writing out terms until you see a pattern, then using the geometric sum formula. (This problem has a simpler solution)
+
+
+###### So I am seeing the same pattern here. I see that k is always going to be multiplied by the previous term. To me it kind of looks like the previous equation that we had. Except this time $c_0$ is equal to x.
+
+so
+
+$c_1=(k\times{x})+x=kx+x$
+
+$c_2=k((k\times{x})+x)+x$ or $c_2=k^2x+kx+x$
+
+$c_3=k((k^2x+kx+x))+x$ or $k^3x+k^2x+kx+x$
+
+###### So it is literally the same pattern here. We are adding an extra term here.
+
+
+$c_n=k^nx+k^{n-1}x+k^{n-2}+kx_+x$+
+
+###### So if we had 10 terms here, then we start with $k^{10}$ and then $k^9$ and so on.
+
+
+This is equal to the following
+
+
+$\sum_{i=0}^{m}k^ix$
+
+###### This is the same thing, but instead of writing out all the terms, we use the summation notation to say that we are summing all of the terms from $k^0x$ to $k^ix$
+
+#### More Practice
+
+
+#### Recurrence definition:
+ - A recurrence relation is a definition for a sequence of numbers that gives a formula for the current term in the sequence as a function of prior terms of the sequence.
+ 
+- The order is the spread between the highest term in the sequence that occurs in the recurrence relation and the lowest term in sequence that occurs in the recurrence relation.
+
+#### Question 1:
+Which of the following are recurrence relations and which are not.\
+a) $a_n=2a_{n-1}+3a_{n-2}$
+
+###### This is for sure a recurrence. It gives a way to give the current term using prior terms in the sequence. Those being the following:
+
+$a_{n-1}$, $a_{n-2}$ 
+
+
+b) $a_k=2(3^k)+5(4^k)$
+
+###### This is not a recurrence. We are raising 3 and 4 to the power of k, but we are not using the previous term to derive the current term. K is independent.
+
+c) $b_{n-1}=2n^2+3n+4$
+
+
+###### Again, this is not a recurrence, since we are not using previous terms to get the current term.
+
+
+d) $b_{n-1}=2(b_{k-3})^k$
+
+
+###### To me, this seems to be a recurrence, since we are using a previous term, that being 
+
+$b_{k-3}$
+
+###### But I also see it not being a recurrence, since the definition of a recurrence specifies that it must be the term before that is used to get the current number in the sequence.
+
+
+
+e) $c_{n+1}=2n^2+c_n$
+
+
+###### This is a weird notation, since usually we are calculating the current term, and not the next term. To make this clear let me write them out:
+
+
+Current term: $c_n$
+Next term: $c_{n+1}$
+
+###### But nonetheless, this would still be a sequence, since we are using the previous term to calculate the next term.
+
+
+f) $c_{k+1}=3(5^{k+2}) + 2(6^{k+1})+k^2$
+
+
+###### This would not be a recurrence, since we are using the next term and the term after that.
+
+
+
+g) $d_n=4d_{n+1}$
+
+
+###### The question as to whether we can use this is kind of iffy, since we are using the next term to calculate the current term. I'll come back to this.
+
+
+h) $2^2+3^{k+2}=d_k+d_{k+1}$
+
+###### This is kind of weird. But in a way I see it being a recurrence since we are using the current term and the next term to calculate the next next term if that makes any sense.
+
+
+#### Question 3. 
+
+The current term of a sequence is proportional to the prior term, with proportionality constant equal to 2. Write down this recurrence. Let the initial term of the recurrence be equal to 2. Write down several terms and solve this recurrence.
+
+
+
+###### Ok so since we know the first term is 2, then its easy to figure out $c_0$ from here.
+
+
+
+$c_0=2$
+
+$c_1=c_0\times{2}$ or 4
+
+$c_2=c_1\times{2}$  or 8
+
+$c_3=c_2\times{2}$ or 16
+
+$c_4=c_3\times{2}$ or 32
+
+$c_5=c_4\times{2}$ or 64.
+
+
+###### Alright now we are going up by powers of two.
+
+
+so the recurrence would be the following:
+
+$c_n=c_{n-1}\times{2}$
+
+
+
+
+
+
+
+
+
+
+
 
 
 
