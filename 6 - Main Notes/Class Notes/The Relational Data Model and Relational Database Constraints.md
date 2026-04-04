@@ -108,7 +108,86 @@ Constraints can be divided into three main categories:
 
 - Constraints that are inherent in the data model. We call these inherent model-based constraints or implicit constraints
 
-- Constraints that can be directly expressed in the schemas of the data model, typically by specifying them in the DDL 
+
+
+
+- Constraints that can be directly expressed in the schemas of the data model, typically by specifying them in the DDL (data definition language). We call these schema-based constraints or explicit constraints.
+
+
+
+- Constraints that cannot be directly expressed in the schemas of the data model, and hence must be expressed and enforced by the application programs or in some other way. We call these application-based or semantic constraints or business rules.
+
+
+
+### Domain constraints:
+- each attribute must be an atomic value from the domain dom(A)
+
+###### Maybe this means that they must all be integers for example, or floats? Not too sure on that.
+
+
+### Key Constraints and Constraints on NULL Values
+
+
+- By definition, all elements of a set are distinct; hence, all tuples in a relation must also be distinct.
+- Any such set of attributes SK is called a super key of the relation schema R
+
+
+###### So basically the super key is just the name itself? Or the SSN??
+
+A key satisfies two properties:
+- Two distinct tuples in any state of the relation cannot have identical values for all the attributes in the key. This uniqueness property also applies to a super key
+
+###### So yeah that makes sense for example in a college database, we cannot have two Elliott' that are the same person. We can have the same name, but not the same ID.
+
+- It is a minimal super key. That is, a super key from which we cannot remove any attributes and still have the uniqueness constraint hold. This minimality property is required for a key but is optional for a super key.
+
+
+
+Consider the STUDENT relation of
+Figure 5.1. The attribute set {Ssn} is a key of STUDENT because no two student
+tuples can have the same value for Ssn. Any set of attributes that includes Ssn—for
+example, {Ssn, Name, Age}—is a superkey. However, the superkey {Ssn, Name, Age}
+is not a key of STUDENT because removing Name or Age or both from the set still
+leaves us with a superkey. In general, any superkey formed from a single attribute is
+also a key. A key with multiple attributes must require all its attributes together to
+have the uniqueness property.
+
+
+
+######  Ok this makes way more sense. Essentially, the SSN alone acts as a key since it must be unique, but when paired with the name, age, and ssn, it creates a super key, which is obviously unique, since those three attributes will not be the same as other values in the database. 
+
+
+###### The good thing to is that you can remove elements from the set and it can still be considered a super key. So we can remove name and it would still be a super key, since that combo of ssn and age will be a unique identifier.
+
+
+![[Pasted image 20260403161833.png]]
+
+
+###### So these are considered candidate keys since they are a unique identifier in the CAR object. For example, the license plate number and the engine serial number are always going to be unique, so we can use either of these as the primary key.
+
+
+### Relation Databases and Relational Database Schemas
+
+- A **Relational database schema** S is a set of relation schemas S ={$R_1, R_2, ... R_M$} and a set of integrity constraints IC.
+- A **Relational database state** DB of S is a set of relation states DB={$r_1, r_2, ..., r_m$} such that the relation states satisfy the integrity constraints specified in IC.
+
+
+
+![[Pasted image 20260403162555.png]]
+
+
+
+
+
+![[Pasted image 20260403162845.png]]
+
+
+
+
+## Entity Integrity, Referential Integrity, and Foreign Keys
+
+
+- The **Entity integrity constraint** states that no primary key value can be NULL.
 
 
 
