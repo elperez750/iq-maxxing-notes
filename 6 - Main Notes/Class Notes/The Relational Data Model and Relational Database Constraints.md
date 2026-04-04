@@ -1,4 +1,4 @@
-wswls
+
 
 
 2026-04-02 20:21
@@ -13,8 +13,11 @@ Tags:
 
 
 ## References
+- https://www.geeksforgeeks.org/dbms/relational-model-in-dbms/
 
+- https://runestone.academy/ns/books/published/practical_db/PART3_RELATIONAL_DATABASE_THEORY/01-relational-model/relational-model.html
 
+- https://www.turingmachine.org/courses/2005/csc370K05/assign/db-ch3.pdf
 
 ### Notes
 
@@ -67,7 +70,6 @@ STUDENT(Name, Ssn, Home_phone, Address, Office_phone, Age, Gpa)
 ![[Pasted image 20260402203035.png]]
 
 ###### So the relation name is basically the name of the column, and then the tuples are the individual values? So a tuple for me would be: "Name: Elliott Perez, SSn:xxx" etc.
-
 
 
 ### Characteristics of Relations
@@ -172,9 +174,7 @@ have the uniqueness property.
 - A **Relational database state** DB of S is a set of relation states DB={$r_1, r_2, ..., r_m$} such that the relation states satisfy the integrity constraints specified in IC.
 
 
-
 ![[Pasted image 20260403162555.png]]
-
 
 
 
@@ -188,10 +188,124 @@ have the uniqueness property.
 
 
 - The **Entity integrity constraint** states that no primary key value can be NULL.
+- The **Referential integrity constraint** is specified between two relations and is used to maintain the consistency among tuples in the two relations.
+
+- To define the referential integrity more formally, first we define the concept of a foreign key.
+
+A key is a foreign key if the following is satisfied:
+- The attributes in FK have the same domain as the primary key attributes PK of $R_2$; the attributes FK are said to reference or refer to the relation $R_2$
+- A value of FK in a tuple $t_1$ of the current state $r_1$ either occurs as a value of PK for some tuple $t_2$ in the current state $r_2$ or is NULL. In the former case, we have $t_1=t_{2}$, and we say that the tuple $t_1$ references or refers to the tuple $t_2$
+
+###### From what I know, the foreign key is used to refer to other tables
+
+
+
+![[Pasted image 20260403171630.png]]
+
+
+###### So here, it seems like a FK is the SSN, since it appears in the dependent table, works on table, and department table.
+
+
+### Other Types of Constraints
+- Another set of constraints is the semantic integrity constraint, which are not part of the DDL and have to be specified and enforced in a different way.
+
+Examples:
+- salary of an employee should not exceed the salary of the employee's supervisor
+- The maximum number of hours an employee can work on all projects per week is 56.
+
+## Update Operations, Transactions, and Dealing with Constraint Violations
+
+There are three main modification updates; Update, Delete, and Create.
 
 
 
 
+### The Insert Operation
 
+
+#### Operation:
+- Insert <‘Cecilia’, ‘F’, ‘Kolonsky’, NULL, ‘1960-04-05’, ‘6357 Windy Lane, Katy,
+TX’, F, 28000, NULL, 4> into EMPLOYEE.
+- Result: This insertion violates the entity integrity constraint (NULL for the
+primary key Ssn), so it is rejected.
+
+
+###### Since this is the key we use to determine if other inputs are unique, then it cannot be null. This is crucial information
+
+#### Operation:
+- Insert <‘Alicia’, ‘J’, ‘Zelaya’, ‘999887777’, ‘1960-04-05’, ‘6357 Windy Lane, Katy,
+TX’, F, 28000, ‘987654321’, 4> into EMPLOYEE.
+- Result: This insertion violates the key constraint because another tuple with
+the same Ssn value already exists in the EMPLOYEE relation, and so it is
+rejected.
+
+
+###### Duplicate value
+
+#### Operation:
+- Insert <‘Cecilia’, ‘F’, ‘Kolonsky’, ‘677678989’, ‘1960-04-05’, ‘6357 Windswept,
+Katy, TX’, F, 28000, ‘987654321’, 7> into EMPLOYEE.
+- Result: This insertion violates the referential integrity constraint specified on
+Dno in EMPLOYEE because no corresponding referenced tuple exists in DEPARTMENT with Dnumber = 7.
+
+###### The department 7 does not exist, therefore the insertion is rejected.
+
+
+### The Delete Operation
+
+#### Operation:
+- Delete the WORKS_ON tuple with Essn = ‘999887777’ and Pno = 10.
+- Result: This deletion is acceptable and deletes exactly one tuple.
+#### Operation:
+- Delete the EMPLOYEE tuple with Ssn = ‘999887777’.
+- Result: This deletion is not acceptable, because there are tuples in WORKS_ON that refer to this tuple. Hence, if the tuple in EMPLOYEE is deleted, referential integrity violations will result.
+#### Operation:
+- Delete the EMPLOYEE tuple with Ssn = ‘333445555’.
+- Result: This deletion will result in even worse referential integrity violations, because the tuple involved is referenced by tuples from the EMPLOYEE, DEPARTMENT, WORKS_ON, and DEPENDENT relations.
+
+
+### The Update Operation
+
+#### Operation:
+- Update the salary of the EMPLOYEE tuple with Ssn = ‘999887777’ to 28000.
+- Result: Acceptable.
+#### Operation:
+- Update the Dno of the EMPLOYEE tuple with Ssn = ‘999887777’ to 1.
+- Result: Acceptable.
+#### Operation:
+- Update the Dno of the EMPLOYEE tuple with Ssn = ‘999887777’ to 7.
+- Result: Unacceptable, because it violates referential integrity.
+#### Operation:
+- Update the Ssn of the EMPLOYEE tuple with Ssn = ‘999887777’ to ‘987654321’.
+- Result: Unacceptable, because it violates primary key constraint by repeating a value that already exists as a primary key in another tuple; it violates referential integrity constraints because there are other relations that refer to the existing value of Ssn.
+
+
+## Quick mental model (to cement things)
+
+Think of a simple university database:
+
+- `STUDENT(Sid PK, Name, Age, Gpa)`
+    
+- `COURSE(Cid PK, Title, Dept)`
+    
+- `ENROLL(Sid FK→STUDENT.Sid, Cid FK→COURSE.Cid, Grade)`
+    
+- Domains:
+    
+    - `Sid`: integers 100000–999999.
+        
+    - `Gpa`: real 0–4.
+        
+- Keys:
+    
+    - `STUDENT`: candidate key `{Sid}`.
+        
+    - `ENROLL`: primary key `{Sid, Cid}` (composite key).
+        
+- Constraints:
+    
+    - Entity integrity: `Sid`, `Cid` not NULL.
+        
+    - Referential: every `Sid` in `ENROLL` must exist in `STUDENT`, every `Cid` in `ENROLL` must exist in `COURSE`.
 
 
