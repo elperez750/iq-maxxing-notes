@@ -138,5 +138,73 @@ A project plan is divided into two parts, the phase plan and the iteration plan.
 Each iteration plan includes
 - Requirements 
 - Analysis and Design
-- Dep
+- Deployment
+- Test and evaluation
+
+
+### Project Risk
+
+A risk is the following:
+- An undesirable event
+- An estimate of the severity of the consequences of the event
+- The probability that the even will occur
+
+
+The Software Development Plan has:
+ - Measurement plan
+ - Risk management plan
+ - Product acceptance plan
+ - Problem resolution plan
+ - Project organization and staffing
+ - Monitoring and control processes
+ - Plan phases and iterations
+
+## Business and Requirements Modelling
+
+Nine core process workflows
+- Business modelling
+- Requirements 
+- Analysis and Design
+- Implementation
+- Test
+- Deployment
+
+Core Supporting Workflows
+- Configuration and Change Management
+- Project Management
+- Environment
+
+
+### Business Modelling
+
+Three active workers:
+- The Business Process Analyst
+- The business Designer
+- Business Model Reviewer
+
+A **[[Stakeholder]]** is any person or representative of an organization who has a stake - vested interest - in the outcome of a project.
+
+The Business Case developed provides the business information necessary to determine if the project is worth investing in, [[Return On Investment]] (ROI)
+
+
+One of the major problems that can occur in Business modelling is lack of communication between the business engineering team and the software engineering team, thus the output from business engineering is not used properly in the software development.
+
+
+### Requirements Modelling
+
+in the requirements workflow we identify what the system should and should not do and what requirements to prioritize.
+
+
+The three active workers in the Requirements workflow are, the System Analysts, the Software Architect and the Requirements Reviewer.
+
+
+###### Would project managers be included in this too, or do the Project Managers just handle a bunch of workflows.
+
+
+## The analysis and Design workflow
+
+Analysis and design bridge the gap between requirements and implementation
+
+
+
 
