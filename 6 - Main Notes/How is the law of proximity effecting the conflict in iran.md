@@ -128,7 +128,7 @@ Rather than banks issuing loans to companies, companies loan to other companies.
 AI bubble is these companies lending to each others. Circle jerk. Getting money from GCC. GCC cannot put in more money, bubble will burst. These companies will be bailed by trump and DC
 
 ##### The AI revolution is embolden companies to increase capital expenditure even though they do not have the funds to build all these data centers, which are essentially to AI training. They are banking on the fact that AI will continue to grow and that it will not stagnate in the future.
-
+ 
 
 Finance and AI bubble needs bailouts. Gov cannot bail both sides
 
