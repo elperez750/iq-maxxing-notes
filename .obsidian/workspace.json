@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96c3917d9f378630",
+        "id": "99b3cce7fee6a18e",
         "type": "tabs",
         "children": [
           {
-            "id": "b28ebea3f33d6e7d",
+            "id": "901077727020e727",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,10 +182,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b28ebea3f33d6e7d",
+  "active": "901077727020e727",
   "lastOpenFiles": [
-    "2 - Source Material/People/Eryximachus.md",
+    "2 - Source Material/People/Aristophanes.md",
     "2 - Source Material/books/Symposium.md",
+    "2 - Source Material/People/Eryximachus.md",
     "2 - Source Material/People/Pausania.md",
     "2 - Source Material/Fictional Characters/Hiriluk.md",
     "2 - Source Material/Fictional Characters",
@@ -211,7 +212,6 @@
     "6 - Main Notes/Class Notes/Latex Templates.md",
     "6 - Main Notes/Class Notes/Introduction To Databases.md",
     "2 - Source Material/books/The Republic.md",
-    "2 - Source Material/People/Thomas Aquinas.md",
     "Attachments/Pasted image 20260403181940.png",
     "Attachments/Pasted image 20260403181435.png",
     "Attachments/Pasted image 20260403180157.png",

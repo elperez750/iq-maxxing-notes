@@ -137,4 +137,72 @@ Tags:
 >You could say that one of the things I've noticed as a result of practicing medicine professionally is that Love is a great and awesome god who pervades every aspect of the lives of men and gods.
 
 
+>pg. 21
+>The love experienced by a  healthy body, therefore, is different from the love experienced by a sick body
+
+
+
+###### I can actually think of a couple examples of what he means. First, when you are healthy, there is sometimes not an appreciation for the simple things in life, such as going out for a walk, or talking to people. Most people just live their lives as NPCs and don't really give thanks to these things that allow them to live the lives that they live. The opposite is true for a sick person. When people are bed ridden, people appreciate the little things that they can do now, like listen to the birds chirping outside, or conversations with whoever. Some wish they could go back to their old life where they were healthy and could preform the things that they could no longer do. That is why I believe that the love of a sick person outshines the love of a regular person.  The difference is the appreciation for life.
+
+
+>pg. 21
+>Put briefly, medicine is the science of the ways of Love as the affect bodily filling and emptying.
+
+
+>pg. 21
+>he should be capable of reconciling extremes of hostility between the bodily elements, and of making them love one another.
+
+
+###### This reminds me of the Theory of Attunement from [[Phaedo]], where basically the soul is in a constant struggle between the physical desires and the desires to grow and acquire knowledge.
+
+
+
+>pg. 22
+>Music is, in fact, the science of the ways of Love in the domain of harmony and rhythm
+
+
+###### He basically argues that anything that requires a sort of attunement is considered to be love, such as medicine and music. 
+
+
+
+>pg. 23 
+>So you can see how extremely powerful Love fundamentally is, in all his manifestations; it's not going too far to say that he is omnipotent. But it is the Love whose fulfillment lies in virtuous, restrained, and moral behavior from both gods and men who has the greatest power, and is the source of all our happiness.
+
+###### Kind of makes the same point that [[Pausania]] made, where only the virtuous love is the only love that is right and moral.
+
+
+
+## [[Aristophanes]]' Speech
+
+
+###### This is a complete shift from what the rest of the philosophers have been saying. [[Aristophanes]] goes into myth.
+
+
+
+
+>pg. 25
+>You see, our nature wasn't originally the same as it is now: it has changed. Firstly, there used to be three human genders, not just two - male and female- as there are nowadays
+
+
+###### He explains that the third gender was just a combination of the two.
+
+
+
+>pg. 25
+>Secondly, each person's shape was complete: they were round, with their backs and sides forming a circle. 
+
+
+
+###### This sounds horrifying to imagine lol.
+
+
+
+
+>pg. 26
+>Now, their strength and power were terrifying, and they were also highly ambitious. They even had a go at the gods. Homer's story about how Ephialtes and Otus tried to mount up to heaven to attack the gods is really about them
+
+
+###### This is why humans were split in two.
+
+
 
