@@ -141,6 +141,17 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 
 ###### Thomas, the brother of Henry V, will go to Paris his his father, while Henry V stays with [[John of Gaunt]] in England in the orbit of [[King Richard II]].
 
+
+
+
+### Chapter 5: Fair Cousin
+
+
+###### This is basically what [[Henry IV]] is up to in exile. Meanwhile, [[King Richard II]] takes a liking to [[Henry V]], and takes him to Ireland. [[John of Gaunt]], who is the father of [[Henry IV]] grows ill, possibly due to the heartbreak of his son being exiled.
+
+
+
+
 ---
 
 ## My Notes & Reactions
@@ -158,6 +169,35 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 
 
 ###### The amount of people who are illerate in the middle ages is wild. I mean I know that books were not mass produced until the printing press came along in the 1500s, but what other factors were in play? I wonder how the literacy rate compared to how it was at the time of the height of the [[Roman Empire]].
+
+
+>pg. 46
+>Gaunt shows the king his penis, which supposedly putrefied as a result of his "frequenting of women"
+
+
+###### Yeah not really much to say here. This just speaks for itself. Clean your dick cheese fellas.
+
+
+>pg. 47
+>He has forbidden Bolingbroke from taking over the hereditary Lancastrian post of the steward of England, granting it instead to their one surviving uncle, Edmund Langley, duke of York. And he has extended Bolingbroke's term of banishment from ten years to life.
+
+
+###### This is obviously what sets up [[Henry IV]] coming to reclaim his inheritance and later claim the throne. In a way it is a crucial point in [[Henry V]] life too since this is the reason he could even become king a learn a lot before that in the first place.
+
+
+>pg. 52
+>I'm sad to hear this rumor. But I believe I am innocent of what my father has done.
+
+
+
+###### First of all [[Henry V]] is like 10 in this moment, but the fact that he is able to think clearly and not freak out when [[King Richard II]] is trying to pin him for what is father is doing is pretty impressive.
+
+
+
+### Chapter 6: A Man is Ruling
+
+>pg. 55
+>
 
 ---
 
