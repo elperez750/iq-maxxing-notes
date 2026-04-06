@@ -197,7 +197,6 @@ Tags:
 
 
 
-
 >pg. 26
 >Now, their strength and power were terrifying, and they were also highly ambitious. They even had a go at the gods. Homer's story about how Ephialtes and Otus tried to mount up to heaven to attack the gods is really about them
 

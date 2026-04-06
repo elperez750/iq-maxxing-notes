@@ -19,8 +19,6 @@ https://cwu.instructure.com/courses/116536/pages/recurrences-introduction
 ### Notes
 
 
-
-
 | What you want                 | Syntax                          |
 | ----------------------------- | ------------------------------- |
 | Inline math                   | `$a_n = \frac{1}{2^n}$`         |
@@ -34,8 +32,6 @@ https://cwu.instructure.com/courses/116536/pages/recurrences-introduction
 | Absolute value                | `$                              |
 | Infinity                      | `$\infty$` → $\infty$           |
 | Dots                          | `$\ldots$` → $\ldots$           |
-
-
 
 ## Sequence notation
 - An ordered list of numbers is called a sequence
@@ -418,6 +414,47 @@ $c_5=c_4\times{2}$ or 64.
 so the recurrence would be the following:
 
 $c_n=c_{n-1}\times{2}$
+
+## Example Questions for 2nd order linear homogeneous recurrences
+
+#### Question 1:
+Find a solution to the following recurrence:
+$c_n=-16c_{n-1} - 64c_{n-2}$
+with initial condition $c_0=-4$ and $c_1=8$
+
+Answer:
+The characteristic equation is the following:
+
+$x^2+16x+64$
+
+To find the roots you can use a calculator or you can factor out this equation by hand. Either way works
+
+The roots are $(x+8)(x+8)$
+
+Since both of our roots are the same, our final solution must take the final form:
+
+$C(r)^n+Dk(r)^n$
+
+We will now plug in our $c_0$ and $c_1$ values
+
+$-4=C(-8)^0+D(0)(-8)^0)$ so $C=-4$
+
+###### The D values gets erased since 0 times any number will just be 0.
+
+Plugging in C into our next equation, we get the following
+
+
+$8=-4(-8)^1+D(1)(-8)^1$
+
+so $D=3$
+
+Now that we have our values, we can test an find the next few values in the sequence.
+
+
+$c_2=-4(-8)^2+3(2)(-8)^2=128$
+
+
+
 
 
 
