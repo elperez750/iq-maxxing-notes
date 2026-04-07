@@ -27,6 +27,7 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 - **Thomas Mowbray** — One of the appellant's; he is the one who is about to duel Henry IV before the fight is stopped.
 - **Thomas of Lancaster** — Brother of Henry V
 - **Thomas Arundel** — The former archbishop of Canterbury, who was banished in 1397 by the 1397 parliament that executed his brother.
+- **Owain Glyndwr** - The rebel who causes Prince Henry a lot of trouble. He claims to be the true Prince of Wales.
 
 
 ---
@@ -152,6 +153,109 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 
 
 
+>pg. 47
+>He has forbidden Bolingbroke from taking over the hereditary Lancastrian post of the steward of England, granting it instead to their one surviving uncle, Edmund Langley, duke of York. And he has extended Bolingbroke's term of banishment from ten years to life.
+
+
+###### This is obviously what sets up [[Henry IV]] coming to reclaim his inheritance and later claim the throne. In a way it is a crucial point in [[Henry V]] life too since this is the reason he could even become king a learn a lot before that in the first place.
+
+
+>pg. 52
+>I'm sad to hear this rumor. But I believe I am innocent of what my father has done.
+
+
+
+###### First of all [[Henry V]] is like 10 in this moment, but the fact that he is able to think clearly and not freak out when [[King Richard II]] is trying to pin him for what is father is doing is pretty impressive.
+
+
+### Chapter 6: A Man is Ruling
+
+>pg. 55
+>What effect Humphrey's death has on Henry we do not know for sure. But the two young cousins spent a summer together at Trim, and during that time they may well have found common ground for conversation beyond the basic facts of their imprisonment.
+
+
+###### Maybe this is where Henry begins to believe more in fate for keeping me alive, as later on we will see that he gains a faith after being shot in the face with an arrow. Maybe the feelings of being the chosen one may have started here seeing a close friend die.
+
+
+
+>pg. 59
+>Henry must watch and learn. The day will come when he, too, will have to dethrone a king.
+
+
+###### I think the the number one thing that Henry takes away in this time period is that a king is never safe. There are always people looking to dethrone or to disrupt the rule of the king. It may have been his father who took the throne, but Henry realized that no king is safe. Maybe this is where he understood that appealing good to the masses was a good strategy.
+
+
+>pg. 63
+>He becomes Prince of Wales, duke of Cornwall, and earl of Chester
+
+
+###### This is where shit gets real for Henry. He will learn that being the son of a king is no easy task. He will have to defend his father's crown that is about to be contested from many sides.
+
+
+### Chapter 7: Prince of Wales
+
+>pg. 66
+>Rebels cannot be allowed a figurehead
+
+
+###### I think this relates to the broad idea of not giving the opposing side any ammo. A figure head has the potential to be more than ammo. A figure head is what gives people hope, and encourages them to keep fighting. 
+
+>pg. 67
+>Prince Henry may reflect that when Richard had the chance and good cause to treat him badly -in Ireland in 1399 - he exercised restraint.
+
+
+###### The question for when he become king is, will he also be merciful, or will this be an example to crush your enemies, since in the end, Richard is locked away and then starved to death.
+
+
+>pg. 69
+>In other words, although in Scotland Henry is not exposed to the full horror and pity of war, he does get a chance to learn more about the other side of combat: the dull, detail-heavy, expensive, complex business of logistics and supply husbandry, without which no war in history has ever been fought, let alone won.
+
+###### This actually raises a good question that I want to get into later in the future. How did leaders such as [[Julius Caesar]] and [[Alexander the Great]] transport so many troops and supplies with them on their long campaigns? I mean Alexander made it all the way to India,  so it is just insane to think about how much food and water and other resources they may have needed to fight.
+
+###### Also this moment is important to Henry because he will realize how scarce resources are on the battle field later on.
+
+
+###### It is during this time that Owain is causing trouble for Henry in Wales.
+
+
+>pg. 74
+>Henry is still some months short of his fifteenth birthday, but he has begun to exercise the power of life and death
+
+
+>pg. 74
+>he has already developed an instinct for the delicate psychology of justice
+
+
+###### The environment in which one is placed in shapes them. Henry may be young, but he is learning that these things are necessary in protecting the kingdom. 
+
+
+
+### Chapter 8: Great Pain and Diligence
+
+###### Henry is beginning to accept more responsibility. His task now is to retake Conwy castle, which was taken by Owain.
+
+
+>pg. 77
+>Henry must know as well as everyone else in England that his father is hardly awash with funds for military campaigns
+
+
+###### This actually relates to a book I was reading called [[The History of Money]] by Jack Weatherford. I will tag it here to take some notes on it later, but essentially, he says that the kings of England borrowed from the wealthy merchants of Italy.
+
+
+>pg. 81
+>the king appoints Prince Henry as royal lieutenant of Wales, giving him full command of his own principality
+
+
+
+###### This is a big reason why Percy (Hotspur) defects to the side of Owain. This is the biggest crisis the young Henry has faced. Henry must defeat Hotspur
+
+
+###### The next event will be important to Henry: The Battle of Shrewsbury, where he will take an arrow to the face and somehow escape alive. This is what makes him faithful. I'm not quite sure if he was very faithful before this incident, but he is definitely more faithful after this.
+
+
+
+
+
 ---
 
 ## My Notes & Reactions
@@ -178,26 +282,43 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ###### Yeah not really much to say here. This just speaks for itself. Clean your dick cheese fellas.
 
 
->pg. 47
->He has forbidden Bolingbroke from taking over the hereditary Lancastrian post of the steward of England, granting it instead to their one surviving uncle, Edmund Langley, duke of York. And he has extended Bolingbroke's term of banishment from ten years to life.
+
+### Chapter 9: His Miraculous Power
+
+>pg. 91
+>Do Henry's thoughts turn to memories of the sky raining arrows at Shrewsbury? Or to Hotspur, his mentor turned enemy, who is now rotting in quarters above town gates in the four corners of England?
 
 
-###### This is obviously what sets up [[Henry IV]] coming to reclaim his inheritance and later claim the throne. In a way it is a crucial point in [[Henry V]] life too since this is the reason he could even become king a learn a lot before that in the first place.
+>pg. 91
+>God who has once more spared him from death, and decides that once he is well enough he will do something serious to show his thanks.
 
 
->pg. 52
->I'm sad to hear this rumor. But I believe I am innocent of what my father has done.
+###### You can only wonder what situations like these will do to a man.  It reminds me of [[Donald Trump]] being shot in the ear at a campaign in 2024. Some people close to  him said that his faith grew stronger because of this.
+
+
+###### Also I never thought I would connect Trump to this book, but here we are, talking about people gaining a newfound love for life.
 
 
 
-###### First of all [[Henry V]] is like 10 in this moment, but the fact that he is able to think clearly and not freak out when [[King Richard II]] is trying to pin him for what is father is doing is pretty impressive.
+>pg. 92
+>Becket's shrine is the destination of the poet [[Geoffrey Chaucer]]'s fictitious pilgrims in [[The Canterbury Tales]] 
+
+###### Just wanted to tag this since I will be reading this later on.
+
+
+>pg. 94
+>He is looking ahead to the next phase of his life, in which his personal [[Piety]] will become an increasingly central part of his public character, even as he continues to perform his assigned role as a warrior prince
+
+>pg. 96
+>As the more astute members of the parliament may understand,  when Prince Henry or one of his brothers lawfully succeeds his father, the question of [[Legitimacy]] will be disappear. The stain of usurpation will be removed.
+
+
+###### A usurper is basically one who takes the crown from another, which is what [[Henry IV]] did. This is why some people will not accept him as the rightful king. This begs the question though. If Henry's father is known as a usurper, then would Henry not be known as the son of the Usurper, and still have that label? It seems like something you would not be able to escape from.
 
 
 
-### Chapter 6: A Man is Ruling
 
->pg. 55
->
+
 
 ---
 
@@ -219,5 +340,8 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 ## Best Passages / Moments
 *Memorable scenes, turns of phrase, key arguments*
 
+>pg. 88
+>Adrenaline is a powerful thing. Hands grab him and try to drag Henry off the field, but he will have none of it. And the battle is reaching a crucial turn. On the right of the royal lines, Stafford has fallen and Hotspur is urging his men forward into a disintegrating body of royal troops.
 
-###### Paste in moment where Prince Henry gets shot in the face and keeps fighting. Fucking badass
+###### Unstoppable force.
+
