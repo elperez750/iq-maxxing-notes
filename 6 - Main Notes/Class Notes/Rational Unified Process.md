@@ -48,7 +48,6 @@ The core process workflows are grouped into six engineering workflows: [[Busines
 
 
 
-
 ### Workers
 
 In RUP, a worker can be thought of as a hat, meaning that one person may have many hats or multiple roles

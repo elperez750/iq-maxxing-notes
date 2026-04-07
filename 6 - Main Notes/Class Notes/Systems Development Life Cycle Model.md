@@ -11,10 +11,8 @@ Tags: [[Software Development]], [[Project Management]]
 
 ##### Author: Nathan White
 
-
 ## References
 https://cwu.instructure.com/courses/116264/files/15993920?module_item_id=4657550
-
 
 
 ### Notes
@@ -203,7 +201,7 @@ https://cwu.instructure.com/courses/116264/files/15993920?module_item_id=4657550
 
 
 
-### Advantages and Disadvantages of RAD
+### Advantages and Disadvantages of JAD
 
 | Advantages                                                                                                            | Disadvantages                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -250,7 +248,6 @@ https://cwu.instructure.com/courses/116264/files/15993920?module_item_id=4657550
 ### Sprint Backlog
 
 - This is a list of the work to be done in the next sprint
-
 
 ### Sprint
 
