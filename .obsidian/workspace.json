@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6269032a453ca687",
+        "id": "d739a565dfef0fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "9e4dd162d1b821bd",
+            "id": "f1d19bf6cb3a214e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Class Notes/Recurrences.md",
+                "file": "6 - Main Notes/Podcasts/Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recurrences"
-            }
-          },
-          {
-            "id": "55d70812656ed956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/books/The Canterbury Tales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Canterbury Tales"
-            }
-          },
-          {
-            "id": "6390245449903b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/books/The History of Money.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The History of Money"
+              "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age."
             }
           }
         ]
@@ -122,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Class Notes/Recurrences.md",
+                "file": "6 - Main Notes/Podcasts/Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Recurrences"
+              "title": "Backlinks for Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age."
             }
           },
           {
@@ -210,14 +182,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9e4dd162d1b821bd",
+  "active": "f1d19bf6cb3a214e",
   "lastOpenFiles": [
+    "2 - Source Material/People/Ragnar Lothbrok.md",
+    "6 - Main Notes/Podcasts/Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age..md",
+    "3 - Tags/Polytheistic religion.md",
+    "2 - Source Material/Fictional Characters/Canute.md",
+    "2 - Source Material/Fictional Characters/Thorfinn.md",
+    "3 - Tags/Vikings.md",
+    "2 - Source Material/People/Henry II.md",
+    "2 - Source Material/People/Thomas Becket.md",
+    "3 - Tags/Anglo-Saxon.md",
+    "2 - Source Material/People/Charlemagne.md",
+    "2 - Source Material/People/Alcuin of York.md",
+    "3 - Tags/Christianity.md",
+    "6 - Main Notes/Class Notes/Recurrences.md",
     "6 - Main Notes/Class Notes/The Relational Data Model and Relational Database Constraints.md",
     "6 - Main Notes/Class Notes/Introduction To Databases.md",
     "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
     "6 - Main Notes/Class Notes/Rational Unified Process.md",
     "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
-    "6 - Main Notes/Class Notes/Recurrences.md",
     "2 - Source Material/books/Henry V.md",
     "2 - Source Material/books/The Canterbury Tales.md",
     "2 - Source Material/books/The History of Money.md",
@@ -226,20 +210,8 @@
     "2 - Source Material/books/Meditations.md",
     "2 - Source Material/People/Alexander the Great.md",
     "2 - Source Material/People/King Richard II.md",
-    "2 - Source Material/books/Symposium.md",
-    "2 - Source Material/People/Aristophanes.md",
-    "2 - Source Material/People/Eryximachus.md",
-    "2 - Source Material/People/Pausania.md",
-    "2 - Source Material/Fictional Characters/Hiriluk.md",
     "2 - Source Material/Fictional Characters",
-    "2 - Source Material/shows/One Piece.md",
     "2 - Source Material/shows",
-    "2 - Source Material/books/The Iliad/The Iliad.md",
-    "2 - Source Material/Fictional Characters/Patroclus.md",
-    "2 - Source Material/Fictional Characters/Hector.md",
-    "2 - Source Material/Fictional Characters/Achilles.md",
-    "2 - Source Material/People/Phaedrus.md",
-    "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
     "Attachments/Pasted image 20260403181940.png",
     "Attachments/Pasted image 20260403181435.png",
     "Attachments/Pasted image 20260403180157.png",
