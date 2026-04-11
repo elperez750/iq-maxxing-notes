@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "d739a565dfef0fa4",
         "type": "tabs",
         "children": [
           {
             "id": "f1d19bf6cb3a214e",
-=======
-        "id": "8600f2b4f3d955aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a981a90694ba76be",
->>>>>>> d6ce98506fd2cb1dcf998afcf947cda63b27c2e7
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Podcasts/Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age..md",
+                "file": "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age."
-=======
-              "title": "The Relational Data Model and Relational Database Constraints"
->>>>>>> d6ce98506fd2cb1dcf998afcf947cda63b27c2e7
+              "title": "Basics of Functional Dependencies and Normalization for Relational Database"
             }
           }
         ]
@@ -106,11 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "6 - Main Notes/Podcasts/Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age..md",
-=======
-                "file": "6 - Main Notes/Jensen Huang and Nvidia's Dominance.md",
->>>>>>> d6ce98506fd2cb1dcf998afcf947cda63b27c2e7
+                "file": "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,11 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks for Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age."
-=======
-              "title": "Backlinks for Jensen Huang and Nvidia's Dominance"
->>>>>>> d6ce98506fd2cb1dcf998afcf947cda63b27c2e7
+              "title": "Backlinks for Basics of Functional Dependencies and Normalization for Relational Database"
             }
           },
           {
@@ -187,25 +167,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
   "active": "f1d19bf6cb3a214e",
   "lastOpenFiles": [
-    "2 - Source Material/People/Ragnar Lothbrok.md",
+    "6 - Main Notes/Class Notes/Introduction To Databases.md",
+    "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
+    "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
+    "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
+    "6 - Main Notes/Class Notes/Latex Templates.md",
+    "6 - Main Notes/Class Notes/Recurrences.md",
+    "6 - Main Notes/Class Notes/The Relational Data Model and Relational Database Constraints.md",
+    "6 - Main Notes/Class Notes/Rational Unified Process.md",
+    "2 - Source Material/books/The Iliad/Book 1.md",
+    "2 - Source Material/books/The Iliad/Book 3.md",
+    "2 - Source Material/books/The Iliad/The Iliad.md",
+    "Canvas/Reading Schedule 380.canvas",
+    "Canvas/Reading Schedule 420.canvas",
+    "Attachments/Pasted image 20260411121528.png",
+    "Attachments/Pasted image 20260411121028.png",
+    "Attachments/Pasted image 20260411120951.png",
+    "Attachments/Pasted image 20260411115907.png",
+    "Attachments/Pasted image 20260411115716.png",
+    "2 - Source Material/books/Henry V.md",
     "6 - Main Notes/Podcasts/Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age..md",
+    "2 - Source Material/People/Ragnar Lothbrok.md",
     "3 - Tags/Polytheistic religion.md",
     "2 - Source Material/Fictional Characters/Canute.md",
     "2 - Source Material/Fictional Characters/Thorfinn.md",
@@ -216,70 +215,22 @@
     "2 - Source Material/People/Charlemagne.md",
     "2 - Source Material/People/Alcuin of York.md",
     "3 - Tags/Christianity.md",
-    "6 - Main Notes/Class Notes/Recurrences.md",
-=======
-  "active": "a981a90694ba76be",
-  "lastOpenFiles": [
-    "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
->>>>>>> d6ce98506fd2cb1dcf998afcf947cda63b27c2e7
-    "6 - Main Notes/Class Notes/The Relational Data Model and Relational Database Constraints.md",
-    "6 - Main Notes/Class Notes/Introduction To Databases.md",
-    "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
-<<<<<<< HEAD
-    "6 - Main Notes/Class Notes/Rational Unified Process.md",
-    "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
-=======
->>>>>>> d6ce98506fd2cb1dcf998afcf947cda63b27c2e7
-    "2 - Source Material/books/Henry V.md",
-    "6 - Main Notes/Class Notes/Rational Unified Process.md",
-    "2 - Source Material/books/The History of Money.md",
     "2 - Source Material/books/The Canterbury Tales.md",
-    "2 - Source Material/People/Donald Trump.md",
-    "2 - Source Material/People/Alexander the Great.md",
-<<<<<<< HEAD
-    "2 - Source Material/People/King Richard II.md",
+    "2 - Source Material/books/The History of Money.md",
     "2 - Source Material/Fictional Characters",
     "2 - Source Material/shows",
-=======
-    "6 - Main Notes/Class Notes/Introduction To Databases.md",
-    "6 - Main Notes/Class Notes/Latex Templates.md",
-    "2 - Source Material/books/The Republic.md",
-    "2 - Source Material/books/Symposium.md",
-    "2 - Source Material/books/The Apology.md",
-    "6 - Main Notes/Class Notes/Recurrences.md",
-    "Excalidraw/Drawing 2026-04-03 16.19.24.excalidraw.md",
-    "Excalidraw",
->>>>>>> d6ce98506fd2cb1dcf998afcf947cda63b27c2e7
     "Attachments/Pasted image 20260403181940.png",
     "Attachments/Pasted image 20260403181435.png",
     "Attachments/Pasted image 20260403180157.png",
     "Attachments/Pasted image 20260403171630.png",
     "Attachments/Pasted image 20260403162845.png",
-    "Attachments/Pasted image 20260403162555.png",
-    "Attachments/Pasted image 20260403161833.png",
-    "Attachments/Pasted image 20260403155256.png",
-    "Attachments/Pasted image 20260403155241.png",
-    "6 - Main Notes/Milesian Readings.md",
-    "3 - Tags/Waterfall Model.md",
-    "3 - Tags/Test.md",
-    "3 - Tags/Stakeholder.md",
-    "3 - Tags/Return On Investment.md",
-    "3 - Tags/Requirements.md",
-    "3 - Tags/Implementation.md",
-    "3 - Tags/Deployment.md",
-    "3 - Tags/Business Modeling.md",
-    "3 - Tags/Analysis and Design.md",
-    "2 - Source Material/shows",
-    "2 - Source Material/Fictional Characters",
-    "Attachments/Pasted image 20260402203035.png",
+    "Canvas/The Database Environment system.canvas",
+    "Excalidraw",
     "Untitled.canvas",
     "2 - Source Material/books/The Iliad",
     "6 - Main Notes/Untitled.base",
-    "Canvas/The Database Environment system.canvas",
     "6 - Main Notes/Untitled 1.base",
-    "Canvas/Reading Schedule 420.canvas",
     "Canvas/College Database example.canvas",
-    "Canvas/Reading Schedule 380.canvas",
     "6 - Main Notes/Class Notes",
     "Canvas/Kings of England before Henry V.canvas",
     "Canvas",
