@@ -62,7 +62,7 @@ Another example is the project table, which clearly represents the project names
 ###### The top image is an example of the semantics requirement of each table being violated. We can see that emp_proj and emp_dept have a lot of the same attributes, such as Ename, SSn, 
 
 
-###### The update anomolie basically means that when we update a value such as SSN, we will have to update this in multiple tables.
+###### The update anomalies basically means that when we update a value such as SSN, we will have to update this in multiple tables.
 
 #### Redundant Information in Tuples and Update Anomalies
 
