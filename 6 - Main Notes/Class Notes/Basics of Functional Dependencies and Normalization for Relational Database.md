@@ -41,6 +41,9 @@ The four informal guidelines to  measure the quality of relation schema design:
 
 - Disallowing the possibility of generating spurious tuples.
 
+###### Basically, this is so that when we decompose data and then join it again, we will not have data that does not correspond to be joined with other data. 
+
+
 
 #### Imparting Clear Semantics to Attributes in Relations
 
@@ -59,8 +62,14 @@ Another example is the project table, which clearly represents the project names
 ###### The top image is an example of the semantics requirement of each table being violated. We can see that emp_proj and emp_dept have a lot of the same attributes, such as Ename, SSn, 
 
 
+###### The update anomolie basically means that when we update a value such as SSN, we will have to update this in multiple tables.
 
 #### Redundant Information in Tuples and Update Anomalies
+
+
+###### The insert anomaly is not being able to insert a fact without some unrelated data.
+
+
 
 ![[Pasted image 20260411115907.png]]
 
@@ -77,7 +86,9 @@ database. This problem does not occur in the database of Figure 14.2 because
 DEPARTMENT tuples are stored separately.
 
 
-###### So basically if we delete an entry from one table, we encounter the problem of it not deleting in the other table that has the same attributes???
+###### Basically what this means is that deleting one fact will accidentally delete another fact, even if the other fact is needed.
+
+
 
 
 
