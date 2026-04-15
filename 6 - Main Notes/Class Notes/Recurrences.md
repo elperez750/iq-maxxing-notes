@@ -455,6 +455,16 @@ $c_2=-4(-8)^2+3(2)(-8)^2=128$
 
 
 
+## Examples of Homogenous and Nonhomogeneous linear second order recurrences
+
+
+Homogenous example:  $a_n=Aa_{n-1}+Ba_{n-2}$
+
+Nonhomogeneous example: $a_n=Aa_{n-1}+Ba_{n-2}+hp^n$
+
+Homogenous Example: $2a_{n-1} + 3a_{n-1}$
+
+Nonhomogeneous example: $a_n=2a_{n-1}+3a_{n-1}+10(-2)^n$
 
 
 
