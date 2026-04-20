@@ -143,30 +143,52 @@ As you may have noticed, a lot of the entities that we have seen are related to 
 
 In the top example, the WORKS_FOR entity would be of degree two, since both the employee entity and the department entity both are connected to it.
 
+A degree of two would also be called a binary.
+
+A degree of three would be ternary
 
 ![[Pasted image 20260419104827.png]]
 
 
+###### So in this example, the ternary relationship would be the supply table, since the supply connects to one supplier, one part, and then one project.
+
+
 #### Constraints on Binary Relationship Types
 
-So to keep the example of WORKS_FOR, EMPLOYEE, AND DEPARTMENT. Each department could be related to max the number of employees at the company, but an employee can only be connected to one department
+So to keep the example of WORKS_FOR, EMPLOYEE, AND DEPARTMENT. Each department could be related to max the number of employees at the company, but an employee can only be connected to one department.
 
 ![[Pasted image 20260419105251.png]]
 
 
 
-## Weak Entity Types
+#### Cardinality Ratio for Binary Relationships
 
+The cardinality ratio specifies the maximum number of relationship instances that an entity can participate in.
+
+
+###### So for the binary relationship of the employee and the department, we have a 1:N relationship, since departments can have multiple employees, but the employee can have at most one department
+
+
+#### Participation
+
+-  Total (mandatory): every entity must participate in at least one relationship instance. Drawn as a double line.
+- Partial (optional): some entities may not participate. Drawn as a single line.
+
+## Weak Entity Types
 
 a DRIVER_LICENSE entity would be very weak since it cannot exist without a PERSON entity. 
 
+###### Some others that I can think of could be a grades entity, since a grade cannot exist without a course.
+
+
+
+A weak entity normally has a partial key
 
 ## Refining the ER Design for the Company Database
 
 - MANAGES, which is a 1:1 relationship type between EMPLOYEE and DEPARTMENT. EMPLOYEE participation is partial and DEPARTMENT participation is not clear from the requirements.
 
 ###### Is Employee participation partial since an employee might not manage a department or?
-
 
 - WORKS_FOR a 1:N relationship type between DEPARTMENT and EMPLOYEE
 
@@ -176,11 +198,9 @@ a DRIVER_LICENSE entity would be very weak since it cannot exist without a PERSO
 ## ER Diagrams, Naming Conventions, and Design Issues
 
 
-In naming, we must use nouns appearing in the narrative tend to give rise to entity type names, and the verbs must tend to indicate names of relationship types
-
+In naming, we must use nouns appearing in the narrative tend to give rise to entity type names, and the verbs must tend to indicate names of relationship types.
 
 ![[Pasted image 20260419105858.png]]
-
 
 
 ## UML Notation

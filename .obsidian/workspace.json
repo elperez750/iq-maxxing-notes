@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8600f2b4f3d955aa",
+        "id": "17cfa8c14feb11c1",
         "type": "tabs",
         "children": [
           {
-            "id": "a981a90694ba76be",
+            "id": "68aff0267ba090e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
+                "file": "6 - Main Notes/Class Notes/Data modeling Using the Entity-Relationship (ER) Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics of Functional Dependencies and Normalization for Relational Database"
+              "title": "Data modeling Using the Entity-Relationship (ER) Model"
             }
           }
         ]
@@ -181,8 +181,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "a981a90694ba76be",
+  "active": "68aff0267ba090e4",
   "lastOpenFiles": [
+    "6 - Main Notes/Class Notes/Counting and Combinatorics.md",
+    "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
+    "6 - Main Notes/Class Notes/Recurrences.md",
+    "6 - Main Notes/What is RAG.md",
+    "6 - Main Notes/Milesian Readings.md",
+    "6 - Main Notes/Videos/The Return of History.md",
+    "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
+    "6 - Main Notes/Videos/How is the law of proximity effecting the conflict in iran.md",
+    "6 - Main Notes/Death and the soul after death.md",
+    "2 - Source Material/books/The Republic.md",
+    "6 - Main Notes/Class Notes/Introduction To Databases.md",
+    "6 - Main Notes/Class Notes/Data modeling Using the Entity-Relationship (ER) Model.md",
+    "2 - Source Material/People/Glaucon.md",
+    "2 - Source Material/People/Thrysimicas.md",
+    "2 - Source Material/People/Ademantis.md",
+    "3 - Tags/Individual Justice.md",
     "Excalidraw/Drawing 2026-04-19 10.31.29.excalidraw.md",
     "Attachments/Pasted image 20260419105935.png",
     "Attachments/Pasted image 20260419105858.png",
@@ -194,31 +210,15 @@
     "Attachments/Pasted image 20260419103344.png",
     "Attachments/Pasted image 20260419102630.png",
     "Attachments/Pasted image 20260419102415.png",
-    "6 - Main Notes/Class Notes/Data modeling Using the Entity-Relationship (ER) Model.md",
     "3 - Tags/Meritocratic.md",
     "2 - Source Material/shows/Vinland Saga.md",
     "2 - Source Material/People/Rollo.md",
     "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
-    "6 - Main Notes/Class Notes/Introduction To Databases.md",
-    "6 - Main Notes/Class Notes/Counting and Combinatorics.md",
     "6 - Main Notes/Podcasts/Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age..md",
-    "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
     "3 - Tags/Vikings.md",
     "3 - Tags/Polytheistic religion.md",
     "3 - Tags/Christianity.md",
     "3 - Tags/Anglo-Saxon.md",
-    "2 - Source Material/People/Thomas Becket.md",
-    "2 - Source Material/People/Ragnar Lothbrok.md",
-    "2 - Source Material/People/Henry II.md",
-    "2 - Source Material/People/Charlemagne.md",
-    "2 - Source Material/People/Alcuin of York.md",
-    "2 - Source Material/Fictional Characters/Thorfinn.md",
-    "2 - Source Material/Fictional Characters/Canute.md",
-    "6 - Main Notes/Class Notes/The Relational Data Model and Relational Database Constraints.md",
-    "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
-    "2 - Source Material/books/Henry V.md",
-    "6 - Main Notes/Class Notes/Rational Unified Process.md",
-    "2 - Source Material/books/The History of Money.md",
     "Excalidraw",
     "2 - Source Material/shows",
     "2 - Source Material/Fictional Characters",
