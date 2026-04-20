@@ -71,14 +71,51 @@ The Vikings were strategic. They would attack on holidays such as Easter or Chri
 Blood Eagle mentioned. WTF
 
 
+The Great Heathen Army was a Viking coalition that invaded England in 865, led by the sons of [[Ragnar Lothbrok]]. This toppled three of [[England]] four kingdoms, with only Wessex under Alfred the Great surviving. This was Europe introduction to the Vikings.
+
+
+The Vikings were very [[Meritocratic]]
+
+
 
 
 
 ## The Rise of the Normans
 
 
+[[Rollo]] is a Viking warlord known for raiding the coast of France. He became the first ruler of Normandy after his treaty with Charles the Simple in 911. 
+
+
+Normans and the Vikings responsible for England and a lot of Europe
+
+
+## Viking Mythology
+
+Their basic conception of the universe is the constant struggle between chaos and order. Chaos will win
+
+###### Insert more about Viking mythology
+
+
+Valhalla was basically the afterlife where after death, you would fight every single day and be resurrected, to prepare for the final battle of Ragnarök.
+
+
+###### This is what we see in [[Vinland Saga]], where all of the warriors are brave an unafraid of death since they believe they will all go to Valhalla and fight. 
+
+
+###### There is this chilling scene from the manga where one of the Viking warriors and dying. He expects to see Valhalla an his fallen brothers, but is instead greeted with darkness. Genuinely one of the most chilling moments in the manga.
+
+Viking religion was polytheistic with no central church or holy book. Beliefs were passed down through oral tradition and there was no concept of sin or salvation. The gods themselves were mortal and flawed.
+
+
+###### This directly connects to [[Euthyphro]], where the question is posed on where holiness comes from and who decides what is pious.
+
+
+###### The gods from the Greek tradition, which are also mentioned in the [[The Iliad]] are flawed. They behave like humans in the sense that they experience jealousy, anger, happiness. The whole story is divine intervention where the gods are taking sides based on past deeds done to them by the humans.
+
+
 
 ## Exploration and Expansion
+
 
 
 
