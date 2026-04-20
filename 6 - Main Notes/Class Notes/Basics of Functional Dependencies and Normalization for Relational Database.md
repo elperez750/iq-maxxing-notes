@@ -264,28 +264,35 @@ For example if we had a table with tournament, year, winner, and date of birth. 
 ###### The tournament and year would be the composite key. This is what defines the winner. You cannot determine the winner just from the year or from the tournament. 
 
 
-
-## Boyce-Codd Normal Form
-
+## Examples to work through
 
 
-#### Decomposition of Relations not in BCNF
+#### Question 1:
+
+R(A,B,C,D,E,F)
+FD1 (A,B,C,) -> D
+FD2 B -> E
+FD3 C -> F
 
 
+Is the 1NF relation also in 2NF ?
+Is the 2NF relation also in 3NF ?
+What are the determinants in the 1NF relation?
+###### The determinants are simply the primary keys in the relationship. I cannot highlight here but on the worksheet they are A, B, C
 
 
+##### 1NF:
+R(A, B, C, D, E, F)
 
-## Multivalued Dependency and Fourth Normal Form
+Here we would have everything in the same relationship.
 
+###### 2NF:
 
+R1(A, B, C, D)
+R2(B, E)
+R3(C, F)
 
-#### Formal Definition of Multivalued Dependency
-
-
-## Join Dependencies and Fifth Normal Form
-
-
-
+We separate things that do not depend on each other. For example, E does not depend on A,B,C. It would only depend on B
 
 
 

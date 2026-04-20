@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Class Notes/Counting and Combinatorics.md",
+                "file": "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Counting and Combinatorics"
+              "title": "Basics of Functional Dependencies and Normalization for Relational Database"
             }
           }
         ]
@@ -183,6 +183,9 @@
   },
   "active": "a981a90694ba76be",
   "lastOpenFiles": [
+    "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
+    "6 - Main Notes/Class Notes/Introduction To Databases.md",
+    "6 - Main Notes/Class Notes/Counting and Combinatorics.md",
     "Attachments/Pasted image 20260411121528.png",
     "Attachments/Pasted image 20260411121028.png",
     "Attachments/Pasted image 20260411120951.png",
@@ -202,16 +205,13 @@
     "2 - Source Material/Fictional Characters/Thorfinn.md",
     "2 - Source Material/Fictional Characters/Canute.md",
     "6 - Main Notes/Class Notes/The Relational Data Model and Relational Database Constraints.md",
-    "6 - Main Notes/Class Notes/Counting and Combinatorics.md",
     "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
-    "6 - Main Notes/Class Notes/Database System Concepts and Architecture.md",
     "2 - Source Material/books/Henry V.md",
     "6 - Main Notes/Class Notes/Rational Unified Process.md",
     "2 - Source Material/books/The History of Money.md",
     "2 - Source Material/books/The Canterbury Tales.md",
     "2 - Source Material/People/Donald Trump.md",
     "2 - Source Material/People/Alexander the Great.md",
-    "6 - Main Notes/Class Notes/Introduction To Databases.md",
     "6 - Main Notes/Class Notes/Latex Templates.md",
     "Excalidraw",
     "Attachments/Pasted image 20260403181940.png",
@@ -219,7 +219,6 @@
     "Attachments/Pasted image 20260403180157.png",
     "Attachments/Pasted image 20260403171630.png",
     "Attachments/Pasted image 20260403162845.png",
-    "Attachments/Pasted image 20260403162555.png",
     "2 - Source Material/shows",
     "2 - Source Material/Fictional Characters",
     "Untitled.canvas",
