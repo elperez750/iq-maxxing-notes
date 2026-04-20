@@ -46,6 +46,16 @@ Most [[Vikings]] did not write anything. Most were farmers as well
 They did not have mercy. Strength was valued.
 
 
+
+**Why Lindisfarne mattered so much**
+
+- It housed the **monastery of St Cuthbert**, a major **pilgrimage site** and intellectual center
+- The raid was experienced as an attack on **God himself**, not just on a random coastal community – hence Alcuin’s horror.
+
+
+
+
+
 ###### And this is the world that [[Thorfinn]] grew up in. That is why when he meets [[Canute]] he is so shocked to see how Thorfinn has become a peaceful, eloquent man.
 
 
@@ -58,9 +68,6 @@ The Vikings practiced a [[Polytheistic religion]]
 The Vikings were strategic. They would attack on holidays such as Easter or Christmas
 
 ###### I mean this is just fucked but game is game. Most people are dressing up in fancier clothes, and most people have their guard down for an attack. Not to mention that this would be such a morale killer for the people who were very faithful.
-
-
-
 
 
 ## Key Historical Figures and Groups
@@ -78,7 +85,22 @@ The Vikings were very [[Meritocratic]]
 
 
 
+- **Social structure**
+    
+    - **Jarls** – wealthy leaders, warlords, chieftains
+        
+    - **Karls** – free farmers, traders, craftsmen
+        
+    - **Thralls** – slaves taken in war or trade
 
+
+- **Meritocratic in war and status (but not modern‑egalitarian)**
+    
+    - **Reputation**, **bravery in battle**, and **success in raids** could raise your status, even if you weren’t born into top aristocracy.
+        
+    - That fits perfectly with your **Vinland Saga** framing: Thorfinn’s society measures worth primarily by **combat ability and boldness**, not by moral goodness.
+        
+    - But it’s still within a **hierarchical** structure 
 
 ## The Rise of the Normans
 
@@ -93,7 +115,7 @@ Normans and the Vikings responsible for England and a lot of Europe
 
 Their basic conception of the universe is the constant struggle between chaos and order. Chaos will win
 
-###### Insert more about Viking mythology
+#####
 
 
 Valhalla was basically the afterlife where after death, you would fight every single day and be resurrected, to prepare for the final battle of Ragnarök.
@@ -116,12 +138,19 @@ Viking religion was polytheistic with no central church or holy book. Beliefs we
 
 ## Exploration and Expansion
 
+The Vikings had no fear. Without  a compass, they sailed the seas looking for adventure. 
+
+They made it to Canada and established a colony called Vinland
+
+###### This is really a big theme in Vinland Saga. The theme of the unknown being out there and not being afraid to explore it. I feel like Leif Eriksson in the show was obviously the one who embodied this the most, but eventually Thorfinn did when he went west to Vinland.
+
 
 
 
 
 ## The Byzantine Empire and Eastward Expansion
 
+Basil II founded the Varangian Guard in 988 with 6000 warriors sent by Vladimir I of Kiev. At his death, the Byzantine Empire was at its greatest extent in four centuries.
 
 
 
