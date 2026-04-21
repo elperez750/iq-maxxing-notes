@@ -11,9 +11,9 @@ Tags:
 
 
 ## References
-
-
-
+https://www.geeksforgeeks.org/dbms/weak-entity-set-in-er-diagrams/
+https://opendsa.cs.vt.edu/ODSA/Books/Database/html/ERDComponents.html
+https://miro.com/diagramming/weak-entity-in-er-diagrams/
 ### Notes
 
 UML diagrams are very useful in Data modeling
@@ -59,7 +59,8 @@ An entity is basically a thing or object in the real world. Each entity then has
 ###### SO the two entities here would be the company entity, and then the employee entity, both with their unique attributes.
 
 
-For a reminder, composite attribues can be divided into smaller parts, while atomic attributes can no longer be split.
+
+For a reminder, composite attributes can be divided into smaller parts, while atomic attributes can no longer be split.
 
 ###### Some examples would include address for composite, since an address is composed of zip code, street address, city
 
@@ -77,8 +78,6 @@ Most attributes have a single value for a particular entity; such attributes are
 
 A multivalued attribute may have lower and upper bounds to constrain the number of values allowed for each individual entity.
 
-
-
 #### Stored vs derived values
 
 A derived value can be determined from other inputs
@@ -87,8 +86,6 @@ A derived value can be determined from other inputs
 
 
 The birthdate attribute would be the stored value in the database
-
-
 
 #### Entity types, Entity sets, Keys, and Value Sets
 
@@ -104,7 +101,6 @@ The entity type defines a schema or intension for a set of entities that share t
 
 The key of an entity is basically the uniqueness of that specific attribute.
 
-
 ###### For employees, it could be the SSN since that is unique. For the company, it could be the company name for example, But then again there are multiple companies that have the same name and therefore that would not work very well. So maybe adding a company ID would work here.
 
 
@@ -112,7 +108,6 @@ The key of an entity is basically the uniqueness of that specific attribute.
 
 
 ###### So for the car, the keys would be the registration and the vehicle ID, since both of those will always be unique
-
 
 #### Value Sets (Domain) of attributes
 
@@ -124,20 +119,27 @@ If the range of ages allowed for employees is between 16 and 70, we can specify 
 ![[Pasted image 20260419104206.png]]
 
 
-
 ###### So here the underlined values would be the primary keys. My question is that if every entity needs a primary key, then why does the DEPENDENT relationship not have anything there?
+
+
+The answer is that in a classic Employee-Dependent relationship, the Dependent is the weak relationship. 
+
+Weak entities do not have their own full primary key. Their key is the combination of a partial key and a primary key of the owner
+
+
+###### So for the dependent table, this would be dependent_name, and empssn. The empssn is from the employees table.
 
 
 ## Relationship Types, Relationship Sets, Roles, and Structural Constraints
 
 As you may have noticed, a lot of the entities that we have seen are related to other entities there.
 
-
 #### Relationship Types, Sets, and Instances
 
 ![[Pasted image 20260419104609.png]]
 
 ###### So here we can see that we have employees connected to a works for entity. I mean it makes sense. All employees must have a boss, and they all must be associated to a department as well.
+
 
 #### Relationship Degree, Role Names, and Recursive Relationship
 
@@ -152,14 +154,11 @@ A degree of three would be ternary
 
 ###### So in this example, the ternary relationship would be the supply table, since the supply connects to one supplier, one part, and then one project.
 
-
 #### Constraints on Binary Relationship Types
 
 So to keep the example of WORKS_FOR, EMPLOYEE, AND DEPARTMENT. Each department could be related to max the number of employees at the company, but an employee can only be connected to one department.
 
 ![[Pasted image 20260419105251.png]]
-
-
 
 #### Cardinality Ratio for Binary Relationships
 
@@ -195,10 +194,18 @@ A weak entity normally has a partial key
 ###### This checks out. A boss has many employees, but an employee does not have many bosses.
 
 
+
 ## ER Diagrams, Naming Conventions, and Design Issues
 
-
 In naming, we must use nouns appearing in the narrative tend to give rise to entity type names, and the verbs must tend to indicate names of relationship types.
+
+
+- Focus: **data** — entities, attributes, relationships.
+    
+- Attributes shown as ovals; no methods.
+    
+- Used mainly for database/conceptual design
+
 
 ![[Pasted image 20260419105858.png]]
 
@@ -209,3 +216,6 @@ In naming, we must use nouns appearing in the narrative tend to give rise to ent
 
 
 
+- Focus: classes with attributes **and** methods; system structure and behavior.
+    
+- Associations between classes model relationships; multiplicity (1, *, 0..1) corresponds to cardinality.
