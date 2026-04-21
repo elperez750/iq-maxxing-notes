@@ -219,3 +219,34 @@ In naming, we must use nouns appearing in the narrative tend to give rise to ent
 - Focus: classes with attributes **and** methods; system structure and behavior.
     
 - Associations between classes model relationships; multiplicity (1, *, 0..1) corresponds to cardinality.
+
+
+
+
+
+## Example 1: University 
+
+#### Entities:
+
+ STUDENT(StudentID PK, Name, Email, Major)
+
+ COURSE(CourseID PK, Title, Credits)
+
+ ENROLLMENT(Grade, Semester) – relationship between STUDENT and COURSE.
+
+
+###### So the cardinality for the Student table and the Course table would be M:N, since there can be multiple students in a course, and a student can have multiple courses, so it is a many-to-many relationship.
+
+
+
+## Example 2: Weak entity – Bank
+
+CUSTOMER(CustomerID PK, Name, Address)
+
+ACCOUNT(AccountNo partial key, Type, Balance) as a weak entity.
+
+Relationship: OWNS (CUSTOMER–ACCOUNT), identifying relationship.
+
+###### So in this example, we have a weak relationship, since the account entity cannot exist without the customer entity.
+
+
