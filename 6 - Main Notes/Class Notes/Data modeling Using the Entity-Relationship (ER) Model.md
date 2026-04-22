@@ -250,3 +250,4 @@ Relationship: OWNS (CUSTOMER–ACCOUNT), identifying relationship.
 ###### So in this example, we have a weak relationship, since the account entity cannot exist without the customer entity.
 
 
+![[Pasted image 20260421163455.png]]
