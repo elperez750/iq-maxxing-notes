@@ -49,3 +49,23 @@ Answer: $12\times{7}\times{9}\times{5}$
 ###### The logic here is that now since we have the option to skip the appetizer and to skip the entree, we now add an extra option to those categories.
 
 
+#### Exercise: Assume S has 7 elements and T has 6 elements
+
+
+#### a) How many total functions are there from S to T?
+
+Answer: $6^7$ 
+
+###### So to recap, a total function is a function where each input must map to an output, meaning we cannot have undefined as one of our outputs. In set S, we have 7 elements, which can map to 6 options. This gives us $6^7$
+
+
+
+#### Exercise: In How many ways can 17 students (including Jack and Jill) line up in a row for a photograph if Jack insists on standing next to Jill (to Jill's right or left)
+
+
+Answer: $16!\times{2!}$ 
+
+###### The logic here is simple. Since we want Jack and Jill to be together, we consider that a group, so that means that the total combinations would be 16!, since we already know the position of one group, which is Jack and Jill. We must then multiply 16! by 2! since we can order Jack and Jill in two different ways
+
+
+
