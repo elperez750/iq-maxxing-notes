@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Class Notes/Untitled.md",
+                "file": "6 - Main Notes/Class Notes/CS 420 Midterm study guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "CS 420 Midterm study guide"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "083db309184c7be2",
@@ -185,7 +186,7 @@
   "lastOpenFiles": [
     "Attachments/Pasted image 20260421163455.png",
     "6 - Main Notes/Class Notes/Data modeling Using the Entity-Relationship (ER) Model.md",
-    "6 - Main Notes/Class Notes/Untitled.md",
+    "6 - Main Notes/Class Notes/CS 420 Midterm study guide.md",
     "6 - Main Notes/Class Notes/Counting and Combinatorics.md",
     "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
     "6 - Main Notes/Class Notes/Recurrences.md",
