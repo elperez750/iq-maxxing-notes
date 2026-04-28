@@ -336,8 +336,6 @@ tags: [[Medieval]], [[Leadership]], [[Power]],[[England]], [[Legitimacy]], [[Ser
 *What did this book leave unresolved or make me curious about?*
 
 
-
-
 ---
 
 ## Best Passages / Moments
