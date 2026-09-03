@@ -146,7 +146,14 @@ Tags:
 
 >Anaxagoras speaks less clearly about these things; for many times he rightly and truly says that mind is the cause, while at other times he says it is soul; for (he says) it is in all animals, both great and small, both honoured and dishonoured. But it is not apparent that what is intelligently called mind is present in all animals alike, nor even in all men.
 
+
+###### What is the difference between the mind and the soul? Does the soul give the mind rationality? How are both explained and what is the relationship between the two? Is the soul the one that informs the mind on moral matters? This is interesting because there is a definitive distinction between the two, and yet we can say that the two have a lot of similar faculties
+
+
 >Anaxagoras seems to say that soul and mind are different, as we said before, but he treats both as one in nature, except that he regards mind especially as the first principle of all things; for he says that this alone of all things is simple and unmixed and pure. And he assigns both to the same first principle, both knowledge and motion, saying that mind moves the all.
+
+##### What is first and second principles in Aristotelian metaphysics?
+
 
 **Aristotle,** [_Physics_](http://classics.mit.edu/Aristotle/physics.3.iii.html)_,_ 3.4_:_
 
