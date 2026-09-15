@@ -88,5 +88,22 @@ Tags:
 ###### Everything has a mix of potency and actuality. For example a cold cup of coffee is the current state of the coffee, we describe it as being cold, but the potential of making something else cold is still there. For example, if there is a person who is warm and they drink the coffee, the coffee would then have potency and the potential to make the person who is drinking it cool.
 
 
+## Accidentally ordered
+
+
+###### What this means is that the current cause does not depend on the prior cause to enact an actualities potency. For example, I need a father in order to be actualized, but my father can die, and I can still give birth and actualize life. 
+
+## Essentially ordered
+
+###### What this means is that this necessarily depends on the previous cause. For example if I wanted to throw my pen at the monitor, the pen has no potency on its own unless its potency is actualized with me the mover.
+
+###### This can result in an infinite regress, since it would seem that everything would have a cause. For example the computer screen cannot be actualized without it being assembled by someone, and then that person cannot be actualized without two parents.
+
+
+### Main distinction between the two 
+
+###### The main distinction between the two would be whether the effect that they produce remain independent from the initial cause. For example if we had dominos, domino two would not be independent, as it falling would depend on domino one. The dominos themselves cannot realize their potency. There must be another agent such as a human or the wind that will then realize that potency.  If a fire spreads and begins to burn down a forest, the initial fire will cause the subsequent fires, but the later fires can burn independently from the first one, that may already be put it. Once the actuality has been realized, it does not need a previous cause and is independent.
+
+
 
 
