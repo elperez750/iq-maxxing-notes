@@ -11,10 +11,14 @@
             "id": "68aff0267ba090e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -181,7 +185,19 @@
   },
   "active": "68aff0267ba090e4",
   "lastOpenFiles": [
+    "6 - Main Notes/Metaphysics.md",
+    "6 - Main Notes/Untitled.md",
     "6 - Main Notes/Untitled 1.base",
+    "3 - Tags/Jesus Christ.md",
+    "5- Templates",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2026-09-02 18.15.29.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-02 18.14.32.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-02 17.53.34.excalidraw.md",
+    "3 - Tags/Transubstantiation.md",
+    "5 - Templates/Main Note.md",
+    "5 - Templates/Biography.md",
+    "5 - Templates",
     "Canvas/Reading Schedule 420.canvas",
     "5 - Templates/Biography.md",
     "5 - Templates/Main Note.md",
@@ -202,14 +218,6 @@
     "6 - Main Notes/What is RAG.md",
     "6 - Main Notes/Milesian Readings.md",
     "6 - Main Notes/Videos/The Return of History.md",
-    "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
-    "6 - Main Notes/Videos/How is the law of proximity effecting the conflict in iran.md",
-    "6 - Main Notes/Death and the soul after death.md",
-    "2 - Source Material/books/The Republic.md",
-    "2 - Source Material/People/Glaucon.md",
-    "2 - Source Material/People/Thrysimicas.md",
-    "2 - Source Material/People/Ademantis.md",
-    "3 - Tags/Individual Justice.md",
     "Attachments/Pasted image 20260419105935.png",
     "Attachments/Pasted image 20260419105858.png",
     "Attachments/Pasted image 20260419105251.png",
@@ -229,9 +237,6 @@
     "Canvas/Reading Schedule 380.canvas",
     "6 - Main Notes/Class Notes",
     "Canvas/Kings of England before Henry V.canvas",
-    "Canvas",
-    "6 - Main Notes/Videos",
-    "6 - Main Notes/Podcasts",
-    "Untitled 1.canvas"
+    "Canvas"
   ]
 }

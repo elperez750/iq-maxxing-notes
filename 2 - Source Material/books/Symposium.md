@@ -19,8 +19,6 @@ Tags:
 
 ###### First of all, I want to say that the Symposium is truly a work of art by Plato, about a few philosophers getting together to figure out what love is, where it comes from, and the true nature of it. It was truly a ride for me. Short but sweet
 
-
-
 ## [[Phaedrus]]' Speech
 
 
@@ -42,7 +40,6 @@ Tags:
 
 ###### The act of being in love he explains, is something that goes to blind fears and makes cowards rise up in the face of danger.
 
-
 ###### This is truly a beautiful thing. When you truly love a person or a thing, you are willing to sacrifice your life for it, because without it, life means nothing. The love that you give; the constant search for knowledge, for you other half, is the reason to keep living.
 
 
@@ -51,12 +48,10 @@ Tags:
 >The reason was that although Achilles found out from his mother that his killing of Hector would cause his own death, and that if he avoided doing this he'd go home and die of old age, he was brave enough to stand by his lover Patroclus and to avenge him - he didn't choose just to die for Patroclus, but even to die as well as him
 
 
-
 ###### This will all relate to the [[The Iliad]], where we will see these events play out with [[Achilles]], [[Hector]], and [[Patroclus]]
 
 
 ###### What [[Phaedrus]] argues is that true love is sacrifice for someone else, or for a greater good. I can relate this to the show [[One Piece]], where [[Hiriluk]] is willing to die to treat patients. His calling ultimately is helping people. People usually think of love as the act of loving another person, but as people later will explain, love is more complicated than that. Love can involve the love of wisdom, the love of a certain subject. There are no bounds to what love can entail.
-
 
 
 ## [[Pausania]]'s Speech
@@ -64,6 +59,7 @@ Tags:
 >pg. 14
 >The same goes for loving and for Love, then: only the Love who incites us to love property is good and  deserves our praise
 
+###### "Only the Love who incites us to love properly is good and deserves our praise". This is Jesus Christ who is the source of all love who can love so perfectly. I don't understand the Trinity yet or the relationships in the godhead but that might be a separate note.
 
 ###### [[Pausania]] will shift in another direction, basically saying that the only kind of love that is right and just is the one that comes from a person who is just that; wise, right, and just.
 
@@ -89,7 +85,6 @@ Tags:
 
 >pg. 14
 >On the other hand, the Love who accompanies Celestial Aphrodite is wholly male, with no trace of femininity. That is why this Love's inspiration makes people feel affection for what is inherently stronger and more intelligent
-
 
 
 ###### Not sure what he means by "wholly male".  It seems that back then, there was a different notion of love between men. This was sort of like a mentorship where the younger man sought out the older man to learn more about the world. I'll have to come back to this,
