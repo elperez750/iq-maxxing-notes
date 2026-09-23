@@ -36,6 +36,7 @@ Three-schema architecture: External, conceptual, internal;
 ###### So external is just what the user would see. The conceptual would be the schema that is implemented by the DBA. The internal would just be how the data is stored in the hardware
 
 
+
 DDL vs DML:
 - **DDL**: Define/alter schema (CREATE TABLE, ALTER TABLE)
 - **DML**: Manipulate data (INSERT, UPDATE, DELETE, SELECT)
@@ -50,8 +51,11 @@ Some examples of what I am talking about:
 
 The following would be DDL: CREATE TABLE Student (sid, INT PRIMARY KEY, name VARCHAR(50));
 
+###### This basically just creates the table. Nothing more.
+
 The following would be DML: INSERT INTO Student (sid, name) VALUES (1, 'Alice')
 
+###### This would basically just insert something into the table.
 
 ## Relational notation and constraints
 
@@ -69,6 +73,9 @@ Primary key vs super key:
 
 **Candidate Key**: All minimal superkeys; One becomes primary
 
+###### So for the example of employees, some candidate keys might be employee id or email, since both have to be unique and can therefore identify a person.
+
+
 **Default superkey**: All attributes of the relation.
 ###### Literally what I said before!!
 
@@ -81,6 +88,7 @@ Primary key vs super key:
 Insert/delete operations that violate integrity:
 - Insert with null or duplicate PK -> entity integrity violation
 - Delete a parent row that has children -> referential integrity violation unless handled by CASCADE/SET NULL
+
 
 ###### So for the delete a parent example, that would only be the case if the entity was a weak entity. 
 
@@ -117,11 +125,12 @@ Is the answer in 2NF? Briefly explain
 
 
 
+
+
+
 ## ER modeling: strong/weak, identifying relationships
 
 Entities: employee, department, dependent, workson, project, deptlocations
-
-
 
 ###### Some other examples that are not relate but that would be considered entities would be a student, teacher, courses, and grades
 
@@ -156,15 +165,29 @@ Example business rules:
 
 ###### So for this, it is considered to be in 2NF since there are no partial dependencies
 
+The way to represent this in 2NF would be the following: 
+$R_1(A, B, C, D, E)$
+
 
 b) Is R in 3NF? Why or why not?
 
 ###### This would not be in 3NF since there is a transitive dependency. C needs AB, and then D needs C, creating this tension.
 
 
+the answer for this to be in 3NF would be the following:
+
+$R_1(A,B,C,D,E)$
+$R_2(C, D)$
+
+
+
 2. In the company database, explain what would happen (in terms of constraints) if you tru to delete an employee who still has dependents in the dependent relation
 
 ###### This would be an Referential integrity issue, since there are other instances that relied on that instance of employee. Since they are weak entities, then unless there is some logic to take care of that then they cannot exist on their own.
+
+
+###### Referential integrity issue would be if you to delete something that is being relied on by other entities.
+
 
 3. Give an example of an insert int PROJECT that would violate entity integrity in the company database.
 
@@ -194,22 +217,15 @@ A relational DBMS is **self-describing** because it stores metadata about the 
 
 ## Strong vs weak, ID-dependant vs non-ID-dependent
 
-
 does X make sense to exist without Y?
 - If no, then X is existence-dependent and a weak entity
 - if yes, then X is a strong entity
 
-
 Does X's primary key include Y's primary key?
-
 - If yes, then x is ID-dependent weak and the relationship from Y to X is identifying
 - If X is weak but its PK does not include Y's PK, then it is weak but it is non-ID dependent
 
-
-
-
 #### Some examples to showcase this
-
 
 Scenario 1
 - An employee can have zero to many dependents
