@@ -30,16 +30,30 @@ Sophists are essentially people who you hire to help you win arguments.
 
 ###### This passage goes to show that even after being granted the title of the wisest man by the renowned oracle, he will still question this and seek the truth out for himself. This shows his true nature.
 
+##### Being called the wisest by the oracle was not because Socrates was truly the wisest man in Athens and knew everything, but instead because Socrates was the first to acknowledge that he knew more about not knowing, meaning that in that sense he was wiser than most of the sophists who pretended to know
+
+
+
 
 >pg. 43
 >"What kind  wisdom do I mean? Human wisdom I suppose"
 
 ###### I found this passage to be interesting because he does not state true wisdom. this is important for Phaedo, as there he goes in depth on the soul and claims that true wisdom cannot be attained while attached to a physical body that is tainted by emotions and desires.
 
+
+###### This is true to a sense as we all build our moral and intellectual foundations on axioms that cannot be proven outside of the system. For example, we cannot definitively prove that God exists, or that induction is true, meaning the laws of nature will be the same tomorrow or the next day. To attain true wisdom is to learn of the truth about the universe, which no one can have access to fully.
+
+###### This would tie into [[Metaphysics]], which is the study of what we can know
+
+
+
+
+
 >pg. 44
 >"But he thinks that he knows something which he does not know,  whereas i am quite conscious of my ignorance"
 
 ###### This is peak Socrates right here! He never claims to be wise or to know the truth of everything. This is why he was excited to talk to Euthyphro or to talk to any man that claims to be "wise". Socrates is always trying to orient himself towards the truth, using logic and reasoning and questioning everything
+
 
 
 ##### Comparative Ignoramus
@@ -81,7 +95,6 @@ This is essentially being uneducated in comparison to experts in a specific fiel
 
 >pg. 54
 >"You are mistaken , my friend, if you think that a man who is worth anything ought to spend his time weighing up the prospects of life or death"
-
 
 ###### This is the core of who Socrates is. He is someone who wans to get to the truth of things. If this means that he must die for the truth, the so be it. Socrates would rather do that than to be a shell of a man who doesn't question anything. As a philosopher, this is what he is destined to do.
 
@@ -135,6 +148,9 @@ This is essentially being uneducated in comparison to experts in a specific fiel
 
 >pg. 70
 >"Nothing can harm a good man either in life or after death"
+
+
+##### After death I believe that there is no more pain when we are reunited with our creator [[Jesus Christ]]. I'm not sure if I agree that nothing can harm the good man in life. We are all human, and we experience pain and sin against God. Maybe he is talking about harm at the soul level, since the good man will always want to be oriented towards the truth and the light.
 
 
 
