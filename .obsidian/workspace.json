@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Class Notes/Euclid Algorithm Notes.md",
+                "file": "6 - Main Notes/Class Notes/Networking/Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Euclid Algorithm Notes"
+              "title": "Requirements"
             }
           }
         ]
@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,9 +185,10 @@
   },
   "active": "a8a30721c3631f85",
   "lastOpenFiles": [
-    "3 - Tags/Euclid.md",
-    "6 - Main Notes/Class Notes/Euclid Algorithm Notes.md",
+    "6 - Main Notes/Class Notes/Networking/Applications.md",
+    "6 - Main Notes/Class Notes/Networking/Requirements.md",
     "6 - Main Notes/Class Notes/7 Regression Problems.md",
+    "6 - Main Notes/Class Notes/Networking",
     "Attachments/Pasted image 20260923185556.png",
     "Attachments/Pasted image 20260923185012.png",
     "Attachments/Pasted image 20260923183703.png",
@@ -197,6 +196,8 @@
     "Attachments/Pasted image 20260923181626.png",
     "Attachments/Pasted image 20260923180337.png",
     "Attachments/Pasted image 20260923180316.png",
+    "6 - Main Notes/Class Notes/Euclid Algorithm Notes.md",
+    "3 - Tags/Euclid.md",
     "Attachments/Screenshot 2026-09-23 at 4.47.31 PM.png",
     "6 - Main Notes/Metaphysics.md",
     "2 - Source Material/books/The Republic.md",
@@ -228,8 +229,6 @@
     "6 - Main Notes/What is RAG.md",
     "6 - Main Notes/Milesian Readings.md",
     "6 - Main Notes/How is the law of proximity effecting the conflict in iran.md",
-    "6 - Main Notes/Videos/How is the law of proximity effecting the conflict in iran.md",
-    "6 - Main Notes/Death and the soul after death.md",
     "Attachments/Pasted image 20260419105935.png",
     "Excalidraw",
     "2 - Source Material/shows",
@@ -240,7 +239,6 @@
     "Canvas/Reading Schedule 420.canvas",
     "Canvas/College Database example.canvas",
     "Canvas/Reading Schedule 380.canvas",
-    "6 - Main Notes/Class Notes",
     "Canvas/Kings of England before Henry V.canvas"
   ]
 }
