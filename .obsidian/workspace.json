@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,8 +187,14 @@
   },
   "active": "a8a30721c3631f85",
   "lastOpenFiles": [
+    "6 - Main Notes/Class Notes/Recurrences.md",
+    "6 - Main Notes/Class Notes/Systems Development Life Cycle Model.md",
+    "6 - Main Notes/Class Notes/The Relational Data Model and Relational Database Constraints.md",
+    "6 - Main Notes/Class Notes/Counting and Combinatorics.md",
     "6 - Main Notes/Class Notes/7 Regression Problems.md",
+    "6 - Main Notes/Podcasts/Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age..md",
     "6 - Main Notes/Class Notes/Simple Linear Regression Model.md",
+    "6 - Main Notes/Podcasts/Jensen Huang and Nvidia's Dominance.md",
     "6 - Main Notes/Class Notes/Networking/Requirements.md",
     "6 - Main Notes/Class Notes/Networking/Applications.md",
     "6 - Main Notes/Class Notes/Networking",
@@ -223,12 +231,6 @@
     "Untitled 1.canvas",
     "6 - Main Notes/Class Notes/CS 420 Midterm study guide.md",
     "Attachments/Pasted image 20260421163455.png",
-    "6 - Main Notes/Class Notes/Data modeling Using the Entity-Relationship (ER) Model.md",
-    "6 - Main Notes/Class Notes/Counting and Combinatorics.md",
-    "6 - Main Notes/Class Notes/Basics of Functional Dependencies and Normalization for Relational Database.md",
-    "6 - Main Notes/Class Notes/Recurrences.md",
-    "6 - Main Notes/What is RAG.md",
-    "6 - Main Notes/Milesian Readings.md",
     "Attachments/Pasted image 20260419105935.png",
     "Excalidraw",
     "2 - Source Material/shows",

@@ -46,6 +46,12 @@ In a random sample, we want to test with different plots of land. We need to hav
 $$E(u| x)=0$$
 "Given what we do know (X), we can't say anything about the stuff we don't know (u)"
 
+if the value is 0, that means that you cannot infer an error from the x value, meaning the term is exogenous
+
+
+$$E(u)$$
+This means the expected value of
+
 
 
 
