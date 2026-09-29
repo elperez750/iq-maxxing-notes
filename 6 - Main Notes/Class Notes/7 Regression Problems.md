@@ -26,6 +26,8 @@ Dependent variable: What we are measuring
 
 Independent variable: Essentially what we are plugging in to see how the dependent variable changes
 
+Endogenous meaning: explanatory term related with the error term
+
 ###### Some examples of this might include: 
 
 Dependent variable: Runtime of computer
@@ -34,8 +36,11 @@ Independent variable: RAM/ Any other hardware
 Dependent Variable: Test scores
 Independent Variable: Time spent studying
 
+$$wage = {\beta_{0}} + {\beta_{1}educ}+{\beta_{2}exper}+{\beta_{3}trainining} + u$$
 
-### Heterogenetity Bias
+##### In the equation, u might represent things not accounted for in the equation, such as innate ability, quality of education, family background, and location of residence
+
+### Heterogeneity Bias
 
 This is basically when you make the mistake of grouping the same category for different groups
 
@@ -44,11 +49,15 @@ This is basically when you make the mistake of grouping the same category for di
 
 These are the results when we group certain people together
 
+This example is bundling 3 different drugs, which is why the results seem to grow
 ![[Pasted image 20260923180316.png]]
 
 
 
 These are the results that we are going to find when we remove the grouping on certain individuals
+
+
+This is when we look at all of the drugs individually. So there is a difference in different groups
 
 ![[Pasted image 20260923180337.png]]
 
@@ -61,6 +70,8 @@ This is essentially picking people for a study without any randomization.
 ###### For example, if there was a survey on how much money people made, if the survey was conducted on a community college campus, you could expect people to making a similar amount of money.
 
 
+###### Another good example would be if there was some sort of program that measures the test scores or wages after the program. There is a chance that the people that are hte most motivated stay in the program. Therefore, that would mean that the program would give the wrong results.
+
 
 
 ### Multicollinearity
@@ -70,11 +81,15 @@ This is when multiple independent variables are strongly correlated
 
 This means that we cannot estimate how a certain variable will impact the dependent variable
 
+###### A good example would be trying to figure out if having good grades in high school relate to having a good grades in college
+
+
 ![[Pasted image 20260923181626.png]]
 
 
-###### A great example of this would be if we had the size of a house in square feet, and if we then had the number of rooms in the house. These two variables are very closely related to each other, as you can imagine that the area of the house in square feet will be closely related to the amount of rooms, therefore making it hard to distinguish between the two variables
+###### A example of this would be if we had the size of a house in square feet, and if we then had the number of rooms in the house. These two variables are very closely related to each other, as you can imagine that the area of the house in square feet will be closely related to the amount of rooms, therefore making it hard to distinguish between the two variables
 
+Level of confidence will be high with the slope coefficient
 
 ### Measurement error
 
@@ -87,6 +102,8 @@ This is not systematic error, but rather error when measuring certain variables.
 ![[Pasted image 20260923183703.png]]
 
 This can happen in both the dependent and independent variables.
+
+attenuation pushes the slope towards zero, no matter if the relationship is positive or negative.
 
 
 ### Misspecification Bias
@@ -105,3 +122,9 @@ This is when variables are closely tied together, and form a feedback loop, wher
 
 
 ![[Pasted image 20260923185556.png]]
+
+
+
+
+### Heteroskedasticity
+
